@@ -1,0 +1,30 @@
+patrimonio,num_serie,tipo,marca,usuario,email,departamento,data_compra,valor_compra,status,problemas
+PAT-10389,C842052,Tablet,Samsung,Fábio Almeida,fabio.almeida@empresa-ficticia.com.br,Comercial,2031-05-10,3695.0,Manutenção,data_futura
+PAT-10537,A952052,Notebook,Dell,Gabriela Silva,gabriela.silva@empresa-ficticia.com.br,Diretoria,,7053.72,Em uso,data_invalida
+PAT-10551,A673615,Notebook,HP,Nelson Costa,nelson.costa@empresa-ficticia.com.br,RH,,7062.73,Em uso,data_invalida
+PAT-10477,F492412,Tablet,Samsung,Karen Costa,karen.costa@empresa-ficticia.com.br,Comercial,2024-08-08,-500.0,Manutenção,valor_negativo
+PAT-10355,E906375,Smartphone,Samsung,Hugo Silva,hugo.silva@empresa-ficticia.com.br,TI,2031-05-10,4069.0,Descartado,data_futura
+PAT-10351,H667865,Notebook,Lenovo,Pedro Costa,pedro.costa@empresa-ficticia.com.br,RH,,7295.29,Estoque,data_invalida
+PAT-10578,B180099,Notebook,Lenovo,Isabela Pereira,isabela.pereira@empresa-ficticia.com.br,Logística,,6663.59,Em uso,data_invalida
+PAT-10525,B605780,Desktop,Dell,Lucas Santos,lucas.santos@empresa-ficticia.com.br,Comercial,2022-10-25,-500.0,Descartado,valor_negativo
+PAT-10018,A419259,Tablet,Samsung,Bruno Souza,bruno.souza@empresa-ficticia.com.br,Engenharia,,3081.0,Estoque,data_invalida
+PAT-10527,A306678,Notebook,Dell,Fábio Costa,fabio.costa@empresa-ficticia.com.br,Comercial,2021-01-14,,Em uso,valor_ausente
+PAT-10331,G410250,Monitor,Samsung,Lucas Souza,lucas.souza@empresa-ficticia.com.br,Diretoria,2031-05-10,1206.0,Em uso,data_futura
+PAT-10138,G724024,Notebook,HP,Diego Santos,diego.santos@empresa-ficticia.com.br,Diretoria,,7393.38,Em uso,data_invalida
+PAT-10437,B940784,Notebook,Lenovo,Carla Lima,carla.lima@empresa-ficticia.com.br,Engenharia,,6336.0,Descartado,data_invalida
+PAT-10191,G903780,Notebook,Lenovo,Olívia Almeida,olivia.almeida@empresa-ficticia.com.br,Comercial,,5290.74,Em uso,data_invalida
+PAT-10047,A371571,Monitor,Dell,Olívia Santos,olivia.santos@empresa-ficticia.com.br,Diretoria,2024-05-12,,Em uso,valor_ausente
+PAT-10236,A843617,Smartphone,Apple,Elaine Pereira,elaine.pereira@empresa-ficticia.com.br,Engenharia,,3944.65,Em uso,data_invalida
+PAT-10377,E406855,Tablet,Samsung,Carla Pereira,carla.pereira@empresa-ficticia.com.br,Comercial,2024-11-03,-500.0,Descartado,valor_negativo
+PAT-10064,E959539,Monitor,LG,Karen Lima,karen.lima@empresa-ficticia.com.br,Diretoria,,1108.3,Em uso,data_invalida
+PAT-10039,A191891,Monitor,Samsung,Fábio Santos,fabio.santos@empresa-ficticia.com.br,Logística,2025-03-26,,Manutenção,valor_ausente
+PAT-10407,B380681,Tablet,Apple,Isabela Santos,isabela.santos@empresa-ficticia.com.br,Diretoria,,3830.0,Em uso,data_invalida
+PAT-10517,E266059,Notebook,HP,Karen Souza,karen.souza@empresa-ficticia.com.br,Comercial,2022-12-31,,Em uso,valor_ausente
+PAT-10591,A177067,Monitor,Dell,Nelson Oliveira,nelson.oliveira@empresa-ficticia.com.br,Logística,2023-10-07,,Em uso,valor_ausente
+PAT-10574,D934727,Notebook,HP,Ana Costa,ana.costa@empresa-ficticia.com.br,Diretoria,2022-11-27,-500.0,Em uso,valor_negativo
+PAT-10246,H469300,Notebook,HP,Fábio Costa,fabio.costa@empresa-ficticia.com.br,RH,2022-10-18,,Manutenção,valor_ausente
+PAT-10341,G444223,Notebook,HP,Bruno Souza,bruno.souza@empresa-ficticia.com.br,Diretoria,2022-09-07,,Em uso,valor_ausente
+PAT-10441,A100409,Monitor,LG,Gabriela Souza,gabriela.souza@empresa-ficticia.com.br,Logística,2021-04-12,,Descartado,valor_ausente
+PAT-10316,D253401,Notebook,Lenovo,Isabela Costa,isabela.costa@empresa-ficticia.com.br,,,7238.0,Em uso,"data_invalida, departamento_ausente"
+PAT-10474,G892575,Notebook,Dell,Bruno Pereira,,Logística,2031-05-10,7693.41,Em uso,"data_futura, email_invalido"
+PAT-10538,D543324,Monitor,Dell,Ana Oliveira,ana.oliveira@empresa-ficticia.com.br,Financeiro,2031-05-10,1260.09,Em uso,data_futura
