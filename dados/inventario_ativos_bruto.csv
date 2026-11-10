@@ -1,0 +1,636 @@
+﻿Patrimonio;Num Serie;Tipo Equipamento;Marca;Usuario;Email;Departamento;Data Compra;Valor Compra;Status
+PAT-10080;B498525;tablet;Samsung;Isabela Souza;isabela.souza@empresa-ficticia.com.br;Engenharia;04-03-2025;4175.90;Em uso
+PAT-10559;E723242;monitor;Dell;Lucas Costa;lucas.costa@empresa-ficticia.com.br;Diretoria;25.02.2024;1480,20;descartado
+PAT-10473;A689215;Monitor ;LG;Pedro Pereira;pedro.pereira@empresa-ficticia.com.br;Financeiro;30/01/2025;R$ 1.241,55;Em uso
+PAT-10105;E177839;Note book;Dell;Hugo Souza;hugosouzaempresa.com;TI;31/03/2024;5813,92;em uso
+PAT-10211;D752785;DESKTOP;HP;Nelson Oliveira;nelson.oliveira@empresa-ficticia.com.br;Engenharia;20/06/2021;5038,07;uso
+PAT-10478;E361026; Notebook ;Dell;Bruno Pereira;bruno.pereira@empresa-ficticia.com.br;Comercial;23.08.2024;5604,94;Em Uso
+PAT-10482;A316083; Notebook ;HP;Hugo Lima;hugo.lima@empresa-ficticia.com.br;Logística;09-09-2023;R$ 6.334,92;uso
+PAT-10144; f237218 ;TABLET;samsung;Carla Oliveira;carla.oliveira@empresa-ficticia.com.br;Diretoria;10/10/2024;3582,03;Em Uso
+PAT-10350;F809113;DESKTOP;Dell;Nelson Oliveira;nelson.oliveira@empresa-ficticia.com.br;RH;12/03/2025;4362,80;em uso
+PAT-10430;G868934;NOTEBOOK;HP;Bruno Souza;bruno.souza@empresa-ficticia.com.br;rh;2024-07-30;7415.93;Manutencao
+PAT-10112;F747444;tablet;samsung;Mariana Almeida;mariana.almeida@empresa-ficticia.com.br;Diretoria;2022-01-13;4029.15;Em Uso
+PAT-10429; f403586 ;Celular;Apple;Gabriela Silva;gabriela.silva@empresa-ficticia.com.br;;16/08/2023;R$ 4.748,11;EM USO
+PAT-10576; a817706 ;Desktop;Dell;Elaine Oliveira;elaine.oliveira@empresa-ficticia.com.br;Comercial;07/05/2025;5118,23;Em uso
+PAT-10145;C509634;notebook;HP;Gabriela Oliveira;gabrielaoliveiraempresa.com;Financeiro;2025-05-17;6608.00;uso
+PAT-10130;E988862;NOTEBOOK;hp;Karen Silva;karen.silva@empresa-ficticia.com.br;TI;11/03/2025;6453,81;EM USO
+PAT-10101;G285301;Desktop;Dell;Fábio Oliveira;fábio.oliveira@empresa-ficticia.com.br;Logística;15.06.2025;R$ 5.481,87;uso
+PAT-10389;C842052;Tablet;Samsung;Fábio Almeida;fábio.almeida@empresa-ficticia.com.br;Comercial;10/05/2031;R$3.695;Manutenção
+PAT-10371;G977816;MONITOR;Samsung;  FÁBIO Santos ;fábio.santos@empresa-ficticia.com.br;Logística;21.04.2022;1164.41;Baixado
+PAT-10584; h490599 ;MONITOR;Samsung;João Pereira;joão.pereira@empresa-ficticia.com.br;Logística;02/04/2023;1178,34;em uso
+PAT-10081;E591676;monitor;Samsung;Karen Costa;karen.costa@empresa-ficticia.com.br;Financeiro;18/08/2024;1208.51;Em Uso
+PAT-10010;C967135;Desktop;Dell;João Souza;joão.souza@empresa-ficticia.com.br;TI;2021-07-03;4298,39;Em Uso
+PAT-10169;G855670;desktop;HP;Bruno Souza;bruno.souza@empresa-ficticia.com.br;Engenharia;2022-03-17;5352.94;Estoque
+PAT-10048; f437304 ;DESKTOP;Dell;João Oliveira;joão.oliveira@empresa-ficticia.com.br;Engenharia;17-01-2021;5468.16;Em uso
+PAT-10406;E959052;Monitor;LG;Diego Almeida;diego.almeida@empresa-ficticia.com.br;Logística;18/03/23;R$ 1.440,77;Em uso
+PAT-10460;E428145;MONITOR;Dell;Hugo Almeida;hugo.almeida@empresa-ficticia.com.br;Financeiro;16/08/25;1334,47;manutencao
+PAT-10342;B656280;Monitor ;LG;Isabela Oliveira;isabela.oliveira@empresa-ficticia.com.br;Engenharia;23.02.2025;R$ 1.395,54;Em Uso
+PAT-10347;A636225;monitor;LG;Gabriela Lima;gabriela.lima@empresa-ficticia.com.br;Comercial;31/07/25;R$ 1.197,60;Em estoque
+PAT-10556;G178601;tablet;Samsung;Gabriela Santos;gabriela.santos@empresa-ficticia.com.br;Financeiro;15/01/21;R$3.334;uso
+PAT-10152;D942539;Desktop;Dell;GABRIELA PEREIRA;gabriela.pereira@empresa-ficticia.com.br;TI;03/01/23;R$ 5.548,07;Em uso
+PAT-10498;A928532; Notebook ;Lenovo;Lucas Silva;lucas.silva@empresa-ficticia.com.br;Diretoria;08/04/2025;6233.67;Em uso
+PAT-10045;D930351;Smartphone;Motorola;João Silva;joão.silva@empresa-ficticia.com.br;TI;31/12/2023;R$ 3.734,72;Descartado
+PAT-10134;A249853;monitor;Samsung;JOÃO SANTOS;;Logística;19/12/2022;1446.89;Em Uso
+PAT-10555;C788647;TABLET;Apple;Mariana Oliveira;mariana.oliveira@empresa-ficticia.com.br;Financeiro;27/11/2023;3185.11;Em uso
+PAT-10097;A171101;Monitor ;Samsung;Fábio Lima;fábio.lima@empresa-ficticia.com.br;Financeiro;23-02-2021;1156.98;Manutencao
+PAT-10180;A954743;Desktop;Dell;Olívia Costa;olívia.costa@empresa-ficticia.com.br;Comercial;13/02/2022;5476,40;EM USO
+PAT-10233;G931093;Smartphone;Samsung;Gabriela Lima;;Comercial;21/08/2023;R$4.079;em uso
+PAT-10338;B441052;Desk top;Dell;Hugo Almeida;hugo.almeida@empresa-ficticia.com.br;RH;2024-12-03;R$5.189;Em uso
+PAT-10215;C477741;monitor;Dell;Fábio Pereira;fábio.pereira@empresa-ficticia.com.br;Financeiro;04.09.2024;R$1.364;EM USO
+PAT-10436;H970088;TABLET;Apple;Karen Almeida;karen.almeida@empresa-ficticia.com.br;Diretoria;01/04/2025;3302,11;estoque
+PAT-10464;H633458;Note book;HP;Pedro Costa;pedro.costa@empresa-ficticia.com.br;Engenharia;2024-09-14;7641.13;Em Uso
+PAT-10037;A628001;MONITOR;Samsung;Bruno Pereira;bruno.pereira@empresa-ficticia.com.br;Financeiro;30/06/25;1127.09;Baixado
+PAT-10058;F823485;Note book;Lenovo;Elaine Santos;elaine.santos@empresa-ficticia.com.br;TI;2021-09-14;R$ 6.107,33;estoque
+PAT-10127;B153113; Notebook ;Lenovo;Ana Santos;ana.santos@empresa-ficticia.com.br;TI;02/03/2021;7413.95;uso
+PAT-10514;A299280;Desktop;HP;Nelson Pereira;nelson.pereira@empresa-ficticia.com.br;RH;21/06/24;5685.16;Baixado
+PAT-10209;C871719;NOTEBOOK;Dell;Nelson Oliveira;nelson.oliveira@empresa-ficticia.com.br;Financeiro;25/12/2021;5995,47;Baixado
+PAT-10124; g437892 ;DESKTOP;Dell;Bruno Almeida;bruno.almeida@empresa-ficticia.com.br;ti;06/10/2022;R$ 5.609,31;EM USO
+PAT-10031;C301205;NOTEBOOK;HP;Olívia Pereira;olívia.pereira@empresa-ficticia.com.br;Diretoria;14-01-2021;R$5.771;Em Uso
+PAT-10283;H655331;monitor;LG;Elaine Costa;elaine.costa@empresa-ficticia.com.br;Diretoria;08/10/2023;1337.04;EM USO
+PAT-10142;C865933;Monitor ;LG;Mariana Santos;mariana.santos@empresa-ficticia.com.br;Diretoria;21.06.2024;R$ 1.533,89;Em estoque
+PAT-10432;G803828;MONITOR;Samsung;Elaine Costa;elaine.costa@empresa-ficticia.com.br;Engenharia;11/08/2021;R$1.332;Em uso
+PAT-10373;H645348;tablet;Samsung;Carla Lima;carla.lima@empresa-ficticia.com.br;Financeiro;2023-02-14;R$ 3.400,15;uso
+PAT-10357;D924281;Notebook;HP;Ana Pereira;anapereiraempresa.com;TI;26/12/2023;5267.17;Manutenção
+PAT-10131;C670629;desktop;hp;Carla Lima;carla.lima@empresa-ficticia.com.br;rh;21-10-2025;5058,32;Em Uso
+PAT-10397;G207709;desktop;HP;Isabela Pereira;isabela.pereira@empresa-ficticia.com.br;RH;23/09/2025;R$ 4.287,70;uso
+PAT-10587;C660733;notebook;Lenovo;Gabriela Pereira;gabriela.pereira@empresa-ficticia.com.br;RH;05/03/2025;7513,74;em uso
+PAT-10317;D948600;monitor;Dell;Fábio Pereira;fábio.pereira@empresa-ficticia.com.br;Engenharia;14/09/2024;R$1.475;uso
+PAT-10359;F974186;Note book;Dell;Nelson Pereira;nelson.pereira@empresa-ficticia.com.br;Financeiro;2025-02-21;R$7.233;EM USO
+PAT-10428;D644051;Monitor;Samsung;João Costa;joão.costa@empresa-ficticia.com.br;Diretoria;04-06-2023;R$1.347;EM USO
+PAT-10486;C233970;notebook;Lenovo;Ana Santos;ana.santos@empresa-ficticia.com.br;-;2021-11-09;R$7.621;EM USO
+PAT-10415;H811048; Notebook ;HP;Hugo Costa;hugo.costa@empresa-ficticia.com.br;Engenharia;2021-08-30;R$ 7.395,83;em uso
+PAT-10155;H349991;desktop;Dell;Lucas Costa;lucas.costa@empresa-ficticia.com.br;RH;2023-04-26;5630,55;em uso
+PAT-10272;A161957;monitor;lg;Ana Silva;ana.silva@empresa-ficticia.com.br;RH;04/10/2024;1323.44;em uso
+PAT-10457;E615196;monitor;Samsung;  ELAINE Silva ;elaine.silva@empresa-ficticia.com.br;rh;06/12/2023;R$ 1.415,84;Em estoque
+PAT-10376; a384264 ;monitor;LG;Carla Souza;n/a;Diretoria;2022-11-09;1341.77;Em Uso
+PAT-10365;G781898;Notebok;hp;Nelson Lima;nelson.lima@empresa-ficticia.com.br;TI;2022-03-30;R$6.561;Em Uso
+PAT-10053;H206707;monitor;Samsung;Bruno Costa;bruno.costa@empresa-ficticia.com.br;Comercial;27/07/2023;R$ 1.447,81;manutencao
+PAT-10537;A952052;Notebook;Dell;Gabriela Silva;gabriela.silva@empresa-ficticia.com.br;Diretoria;sem data;7053,72;uso
+PAT-10451; e839958 ;Monitor;LG;Diego Almeida;diego.almeida@empresa-ficticia.com.br;RH;2024-11-07;1263.59;Em uso
+PAT-10492;G326895;smartphone;Motorola;Mariana Almeida;mariana.almeida@empresa-ficticia.com.br;Engenharia;26/06/22;4631.59;Em uso
+PAT-10177; b783559 ;Desktop;HP;Isabela Oliveira;isabela.oliveira@empresa-ficticia.com.br;Logística;10/04/2025;R$ 5.503,60;em uso
+PAT-10284; g550096 ;NOTEBOOK;Lenovo;Mariana Souza;mariana.souza@empresa-ficticia.com.br;TI;06/01/2025;6735.17;em uso
+PAT-10551;A673615;notebook;HP;NELSON COSTA;nelson.costa@empresa-ficticia.com.br;rh;31/02/2023;7062.73;uso
+PAT-10450;F510928;Monitor;LG;Elaine Lima;elaine.lima@empresa-ficticia.com.br;RH;13/09/2023;R$1.414;estoque
+PAT-10310;E713772;Note book;Dell;Olívia Santos;olívia.santos@empresa-ficticia.com.br;Diretoria;28/12/2021;7129,52;EM USO
+PAT-10103;H244784;MONITOR;Dell;Isabela Costa;isabela.costa@empresa-ficticia.com.br;rh;23.08.2021;R$ 1.230,83;uso
+PAT-10360;A720149;TABLET;Samsung;Carla Oliveira;carla.oliveira@empresa-ficticia.com.br;Diretoria;12/08/2021;3378,92;Em uso
+PAT-10108;D161685;NOTEBOOK;Dell;Diego Souza;diego.souza@empresa-ficticia.com.br;Financeiro;07/06/2022;6930.67;uso
+PAT-10194;E680200;NOTEBOOK;Dell;Nelson Pereira;nelson.pereira@empresa-ficticia.com.br;TI;01/04/23;R$ 5.558,51;Em estoque
+PAT-10491;F937683;Celular;Apple;Elaine Lima;elaine.lima@empresa-ficticia.com.br;Engenharia;10/05/2022;R$3.698;manutencao
+PAT-10270;A215869;monitor;LG;Gabriela Silva;gabriela.silva@empresa-ficticia.com.br;Financeiro;14-06-2023;R$ 1.144,34;Em uso
+PAT-10132;D893753;Notebok;HP;Hugo Lima;hugo.lima@empresa-ficticia.com.br;TI;20/04/2024;5385,27;uso
+PAT-10046;D215915;tablet;Samsung;João Costa;joão.costa@empresa-ficticia.com.br;Logística;06.12.2022;R$4.141;Estoque
+PAT-10390;F992276;Desktop;HP;Gabriela Silva;gabriela.silva@empresa-ficticia.com.br;Comercial;22-01-2021;R$ 5.756,36;Estoque
+PAT-10410;C440509;NOTEBOOK;HP;Bruno Silva;bruno.silva@empresa-ficticia.com.br;TI;08/05/2022;R$5.553;em uso
+PAT-10107; e831048 ;Monitor ;Samsung;Diego Lima;diego.lima@empresa-ficticia.com.br;Logística;20/04/23;R$1.277;Manutenção
+PAT-10014;G796943;Notebook;Dell;Olívia Pereira;olívia.pereira@empresa-ficticia.com.br;TI;04/06/22;R$ 7.486,52;em uso
+PAT-10214;H918120; Notebook ;Dell;Elaine Costa;elaine.costa@empresa-ficticia.com.br;;2023-11-07;R$ 5.897,87;Em Uso
+PAT-10176;F213549;MONITOR;LG;KAREN OLIVEIRA;karen.oliveira@empresa-ficticia.com.br;TI;2025-05-14;1104,87;EM USO
+PAT-10061;G444331;Smart phone;Samsung;João Souza;joão.souza@empresa-ficticia.com.br;Comercial;05/08/2024;R$3.505;uso
+PAT-10317;D948600;monitor;Dell;FÁBIO PEREIRA;fábio.pereira@empresa-ficticia.com.br;Engenharia;14/09/2024;R$1.475;uso
+PAT-10536;G564724;Note book;Dell;Isabela Souza;isabela.souza@empresa-ficticia.com.br;TI;26/03/2024;5835,18;Baixado
+PAT-10475;F277330;notebook;Lenovo;Isabela Souza;isabela.souza@empresa-ficticia.com.br;Diretoria;27/06/22;7098.57;Em uso
+PAT-10159; h191591 ;notebook;lenovo;Ana Souza;ana.souza@empresa-ficticia.com.br;Financeiro;25/12/2023;R$7.734;uso
+PAT-10137;F542753;Note book;Dell;João Costa;;TI;2022-01-15;5996,67;estoque
+PAT-10454;D259908;Smart phone;Samsung;Olívia Almeida;olívia.almeida@empresa-ficticia.com.br;RH;20-02-2024;R$ 4.172,69;manutencao
+PAT-10073;F684015;Note book;HP;  DIEGO Souza ;diego.souza@empresa-ficticia.com.br;Comercial;08/07/22;R$5.535;Em uso
+PAT-10509;B192865;tablet;Apple;  BRUNO Santos ;bruno.santos@empresa-ficticia.com.br;Logística;16/08/2024;3586.85;Em manutenção
+PAT-10175;C423794;Smartphone;apple;Nelson Silva;nelson.silva@empresa-ficticia.com.br;Comercial;16/01/2024;R$3.929;em uso
+PAT-10303;G312959;NOTEBOOK;HP;Carla Silva;carla.silva@empresa-ficticia.com.br;Logística;12.06.2022;R$6.574;Manutenção
+PAT-10067; b114493 ;Monitor;Dell;Fábio Oliveira;fábio.oliveira@empresa-ficticia.com.br;Financeiro;30/09/2025;1198,65;Em Uso
+PAT-10188;B649013;Desktop;Dell;Diego Almeida;diego.almeida@empresa-ficticia.com.br;Financeiro;28-08-2025;4994,08;Em estoque
+PAT-10111;G185120; Notebook ;Dell;Diego Silva;diego.silva@empresa-ficticia.com.br;Financeiro;2024-10-21;R$ 5.208,24;uso
+PAT-10123;A456795;Monitor ;LG;Hugo Lima;hugo.lima@empresa-ficticia.com.br;RH;03/05/2021;1262.73;Em uso
+PAT-10268;B341323;Celular;Samsung;Pedro Pereira;pedro.pereira@empresa-ficticia.com.br;Diretoria;11/06/25;5025,00;em uso
+PAT-10477;F492412;Tablete;Samsung;Karen Costa;karen.costa@empresa-ficticia.com.br;Comercial;08/08/2024;-500,00;Em manutenção
+PAT-10235; g410817 ;DESKTOP;Dell;Olívia Silva;olívia.silva@empresa-ficticia.com.br;Financeiro;16.07.2022;4049,03;uso
+PAT-10323;E694641;Note book;Dell;João Silva;joão.silva@empresa-ficticia.com.br;Engenharia;15/04/2022;R$ 5.788,29;Manutenção
+PAT-10271;D884426;MONITOR;LG;Mariana Almeida;mariana.almeida@empresa-ficticia.com.br;Financeiro;09/02/2024;R$1.488;Em Uso
+PAT-10473;A689215;Monitor ;LG;Pedro Pereira;pedro.pereira@empresa-ficticia.com.br;Financeiro;30/01/2025;R$ 1.241,55;Em uso
+PAT-10102;F927332;Notebook;Lenovo;Ana Almeida;ana.almeida@empresa-ficticia.com.br;;29/11/2022;5428,66;uso
+PAT-10232; e880181 ;MONITOR;Dell;Gabriela Santos;gabriela.santos@empresa-ficticia.com.br;;31.08.2021;R$ 1.243,64;Manutencao
+PAT-10370;H841372;Tablet;Samsung;Elaine Oliveira;elaine.oliveira@empresa-ficticia.com.br;rh;14/08/2022;4163,29;manutencao
+PAT-10512; e630213 ;monitor;Dell;Nelson Souza;nelson.souza@empresa-ficticia.com.br;Comercial;20.04.2021;R$ 1.202,67;Manutencao
+PAT-10334;E573717;NOTEBOOK;Lenovo;Diego Santos;diego.santos@empresa-ficticia.com.br;Engenharia;15/03/2023;7625.30;estoque
+PAT-10131;C670629;desktop;hp;CARLA LIMA;carla.lima@empresa-ficticia.com.br;rh;21-10-2025;5058,32;Em Uso
+PAT-10091;A222530;Note book;Lenovo;Elaine Oliveira;elaine.oliveira@empresa-ficticia.com.br;TI;30/07/2024;7032,28;em uso
+PAT-10116;B378123;monitor;Dell;Bruno Souza;bruno.souza@empresa-ficticia.com.br;Comercial;02/12/2025;1474.85;descartado
+PAT-10315;F700625;MONITOR;Samsung;Pedro Almeida;pedro.almeida@empresa-ficticia.com.br;Diretoria;21/01/2023;1530.95;EM USO
+PAT-10106;D798565;tablet;Samsung;  BRUNO Almeida ;bruno.almeida@empresa-ficticia.com.br;rh;17/10/2023;3918,38;Em uso
+PAT-10206;G525673;NOTEBOOK;Dell;Isabela Silva;isabela.silva@empresa-ficticia.com.br;Diretoria;23/04/25;R$ 5.372,03;Baixado
+PAT-10027; h526244 ;Monitor;LG;Diego Souza;diego.souza@empresa-ficticia.com.br;Comercial;24-02-2021;R$ 1.232,17;em uso
+PAT-10346;E735274;Desktop;Dell;Bruno Lima;bruno.lima@empresa-ficticia.com.br;Diretoria;06-08-2021;4508.29;uso
+PAT-10136;C101580;DESKTOP;HP;João Lima;joão.lima@empresa-ficticia.com.br;ti;06/05/2021;5451,89;Em uso
+PAT-10043;A314742;Smartphone;Samsung;  GABRIELA Souza ;gabriela.souza@empresa-ficticia.com.br;Diretoria;2023-07-06;R$4.122;Manutencao
+PAT-10192;A660316;Celular;Apple;Nelson Almeida;n/a;Engenharia;30/04/2024;4756,77;EM USO
+PAT-10392;C871463;Monitor;Samsung;Gabriela Costa;gabriela.costa@empresa-ficticia.com.br;Logística;27/11/2024;R$1.360;Em Uso
+PAT-10324;E970304;monitor;LG;Nelson Lima;nelson.lima@empresa-ficticia.com.br;Financeiro;17/04/2025;1263,79;Em estoque
+PAT-10229;G843534; Notebook ;HP;Olívia Silva;olívia.silva@empresa-ficticia.com.br;Comercial;2021-03-28;5292.95;em uso
+PAT-10550;A300495;DESKTOP;Dell;Pedro Silva;pedro.silva@empresa-ficticia.com.br;Financeiro;05/06/2022;R$ 5.719,87;Em uso
+PAT-10291;F502440;Monitor;Dell;João Souza;joão.souza@empresa-ficticia.com.br;Comercial;22/02/24;R$ 1.479,07;Em manutenção
+PAT-10382;H865686;Tablete;Apple;Isabela Pereira;isabela.pereira@empresa-ficticia.com.br;Logística;17/06/2021;3603.15;uso
+PAT-10224;E530793;Desk top;HP;Fábio Pereira;fábio.pereira@empresa-ficticia.com.br;Logística;2022-04-28;R$ 5.753,89;Em Uso
+PAT-10472;F349012; Notebook ;Dell;Olívia Oliveira;olívia.oliveira@empresa-ficticia.com.br;RH;2023-09-12;5880.28;Em Uso
+PAT-10121;F920635;monitor;lg;Nelson Silva;nelson.silva@empresa-ficticia.com.br;Logística;2024-01-11;R$1.483;Em uso
+PAT-10204; b735243 ;MONITOR;Dell;Hugo Costa;hugo.costa@empresa-ficticia.com.br;TI;05/07/2025;1237.63;Em uso
+PAT-10028;B355180;Desk top;HP;João Silva;joão.silva@empresa-ficticia.com.br;Logística;24/02/2024;R$ 5.112,35;em uso
+PAT-10129;F460108; Notebook ;Lenovo;Fábio Almeida;fábio.almeida@empresa-ficticia.com.br;RH;2021-06-29;5992,45;descartado
+PAT-10251;C568408;smartphone;Apple;Olívia Souza;;Financeiro;2022-06-09;3496.94;estoque
+PAT-10518;F126141;Monitor ;Samsung;Nelson Lima;nelson.lima@empresa-ficticia.com.br;rh;2025-07-27;R$ 1.166,08;em uso
+PAT-10264;C475247;notebook;Lenovo;Karen Pereira;karen.pereira@empresa-ficticia.com.br;Engenharia;15/06/2023;6568,94;EM USO
+PAT-10040;F535915;Note book;Lenovo;Fábio Santos;fábio.santos@empresa-ficticia.com.br;Diretoria;2024-09-09;5938.99;EM USO
+PAT-10479;D733867;Tablet;Samsung;Mariana Silva;mariana.silva@empresa-ficticia.com.br;Engenharia;27/02/2021;3438,55;uso
+PAT-10318;E483457;notebook;HP;Carla Santos;carla.santos@empresa-ficticia.com.br;Diretoria;2024-07-02;R$ 7.608,60;uso
+PAT-10016;B597687;Notebok;Dell;Gabriela Lima;gabriela.lima@empresa-ficticia.com.br;Engenharia;01/11/2023;6964,96;Baixado
+PAT-10008;D175518;NOTEBOOK;Dell;Karen Santos;karen.santos@empresa-ficticia.com.br;Diretoria;19/05/2022;5506,41;EM USO
+PAT-10330; g201251 ; Notebook ;Lenovo;Bruno Almeida;bruno.almeida@empresa-ficticia.com.br;Financeiro;02/04/2025;6017,49;uso
+PAT-10293;D718545;notebook;Dell;  OLÍVIA Silva ;olívia.silva@empresa-ficticia.com.br;Logística;31/03/2023;5362,16;em uso
+PAT-10321;B922479;Notebook;Dell;Lucas Souza;lucas.souza@empresa-ficticia.com.br;Engenharia;22-12-2023;7443,53;Em Uso
+PAT-10339;B367581;monitor;LG;Carla Almeida;carla.almeida@empresa-ficticia.com.br;Financeiro;13-12-2021;1387.14;EM USO
+PAT-10170;D260277;smartphone;Motorola;Lucas Souza;lucas.souza@empresa-ficticia.com.br;Logística;03/02/2025;4226.24;uso
+PAT-10340;A837968;Monitor;LG;Hugo Lima;;Logística;08/11/2025;1143.85;EM USO
+PAT-10333;D306193;desktop;HP;Gabriela Santos;gabriela.santos@empresa-ficticia.com.br;Engenharia;12/07/2023;R$5.440;Em uso
+PAT-10488;C709938;TABLET;Samsung;Ana Souza;ana.souza@empresa-ficticia.com.br;Financeiro;05.12.2021;3158.60;EM USO
+PAT-10516;B398097;monitor;LG;Carla Costa;carla.costa@empresa-ficticia.com.br;Diretoria;10/07/24;1276,54;EM USO
+PAT-10185;C305352;Desk top;HP;Olívia Almeida;olívia.almeida@empresa-ficticia.com.br;Financeiro;2023-08-13;4673,81;Em Uso
+PAT-10079;H816966;monitor;Samsung;Lucas Souza;lucas.souza@empresa-ficticia.com.br;TI;2024-02-28;R$ 1.395,79;Manutenção
+PAT-10243;A965822;MONITOR;Samsung;Mariana Oliveira;mariana.oliveira@empresa-ficticia.com.br;Financeiro;27.04.2025;1365,88;Em manutenção
+PAT-10086;C838286;Note book;Lenovo;  OLÍVIA Costa ;olívia.costa@empresa-ficticia.com.br;Financeiro;06/09/2024;7502,56;em uso
+PAT-10451; e839958 ;Monitor;LG;Diego Almeida;diego.almeida@empresa-ficticia.com.br;RH;2024-11-07;1263.59;Em uso
+PAT-10049;D648015;Monitor ;LG;Hugo Santos;hugo.santos@empresa-ficticia.com.br;Logística;17-07-2025;1239.35;uso
+PAT-10419;A782966;Celular;Samsung;Karen Silva;karen.silva@empresa-ficticia.com.br;Logística;14/12/2023;4990,36;estoque
+PAT-10134;A249853;monitor;Samsung;João Santos;;Logística;19/12/2022;1446.89;Em Uso
+PAT-10157;D375059;NOTEBOOK;HP;Bruno Pereira;bruno.pereira@empresa-ficticia.com.br;Diretoria;27/03/2024;5527.72;Em Uso
+PAT-10354;C974364;Monitor;Samsung;Bruno Lima;bruno.lima@empresa-ficticia.com.br;Diretoria;11/09/24;1328.36;uso
+PAT-10057;G450402;Celular;Samsung;Elaine Silva;elaine.silva@empresa-ficticia.com.br;TI;05/06/24;5037,48;Estoque
+PAT-10237;C206181;NOTEBOOK;HP;  HUGO Oliveira ;hugo.oliveira@empresa-ficticia.com.br;Engenharia;15/06/2022;6750,54;em uso
+PAT-10501;C585253;Tablet;Apple;Fábio Silva;fábio.silva@empresa-ficticia.com.br;TI;27/11/2021;R$3.034;em uso
+PAT-10355;E906375;Celular;Samsung;Hugo Silva;hugo.silva@empresa-ficticia.com.br;TI;10/05/2031;R$4.069;descartado
+PAT-10526;B858170;DESKTOP;HP;Diego Pereira;diego.pereira@empresa-ficticia.com.br;RH;07/08/2025;5435.86;Manutencao
+PAT-10055;D607001;MONITOR;LG;Lucas Lima;lucas.lima@empresa-ficticia.com.br;TI;2023-05-26;R$1.190;EM USO
+PAT-10552;E980481;Notebok;Lenovo;Hugo Costa;hugo.costa@empresa-ficticia.com.br;TI;13/11/2021;6177.51;Baixado
+PAT-10466;H244274;Monitor;Dell;Bruno Almeida;bruno.almeida@empresa-ficticia.com.br;TI;02/09/2025;1401.12;Em uso
+PAT-10201;H522194; Notebook ;HP;Pedro Oliveira;pedro.oliveira@empresa-ficticia.com.br;TI;29.01.2025;6752,34;Estoque
+PAT-10244;B725016;tablet;Apple;Lucas Costa;lucas.costa@empresa-ficticia.com.br;Financeiro;21/01/2023;2839,54;EM USO
+PAT-10239; d323858 ;Celular;Samsung;  LUCAS Silva ;lucas.silva@empresa-ficticia.com.br;RH;10/12/2023;3477,65;Baixado
+PAT-10000;D679105;NOTEBOOK;Lenovo;Ana Costa;ana.costa@empresa-ficticia.com.br;RH;20.10.2022;6853.26;Em Uso
+PAT-10523;E545129;Notebok;Dell;Pedro Lima;pedro.lima@empresa-ficticia.com.br;TI;29/01/2025;7706.60;manutencao
+PAT-10126;H399504;notebook;HP;João Souza;joão.souza@empresa-ficticia.com.br;Comercial;2022-07-29;R$ 5.812,34;Em uso
+PAT-10025;D121610;Monitor ;Dell;Carla Souza;carla.souza@empresa-ficticia.com.br;RH;19-05-2021;R$ 1.446,91;em uso
+PAT-10349;G952123;Desktop;Dell;Fábio Lima;fábio.lima@empresa-ficticia.com.br;Comercial;28-07-2022;R$ 5.168,41;Baixado
+PAT-10174;D163472;monitor;Samsung;Diego Pereira;diego.pereira@empresa-ficticia.com.br;Engenharia;26/12/2023;1308,01;em uso
+PAT-10386;F584314;desktop;HP;Hugo Almeida;hugo.almeida@empresa-ficticia.com.br;Comercial;25.07.2021;5304.68;Manutenção
+PAT-10059;C506682;Smart phone;Apple;  KAREN Costa ;karen.costa@empresa-ficticia.com.br;ti;2022-08-03;4346.56;Baixado
+PAT-10533;G264672;NOTEBOOK;Dell;Diego Souza;diego.souza@empresa-ficticia.com.br;Logística;15.06.2024;R$ 5.966,02;em uso
+PAT-10153;C660177;Tablet;Apple;  ELAINE Pereira ;elaine.pereira@empresa-ficticia.com.br;Engenharia;12/11/2023;R$ 3.951,64;EM USO
+PAT-10288;H390426;Monitor;Samsung;Diego Souza;diego.souza@empresa-ficticia.com.br;Financeiro;2022-10-18;R$ 1.505,05;Em uso
+PAT-10393;A474380;Notebook;Dell;João Lima;joão.lima@empresa-ficticia.com.br;Comercial;2025-05-15;5818,27;Baixado
+PAT-10161;A740221;Note book;Lenovo;João Souza;joão.souza@empresa-ficticia.com.br;Logística;2024-09-17;7770.66;Estoque
+PAT-10490;C330367; Notebook ;HP;Pedro Souza;pedro.souza@empresa-ficticia.com.br;Logística;31/01/2025;R$ 5.359,43;descartado
+PAT-10565;A474654;DESKTOP;Dell;Mariana Almeida;n/a;Engenharia;10-02-2024;4941,00;Em Uso
+PAT-10532;D155729;Note book;Lenovo;Lucas Oliveira;lucas.oliveira@empresa-ficticia.com.br;Diretoria;26/09/2025;6215.70;descartado
+PAT-10351;H667865;Note book;Lenovo;Pedro Costa;pedro.costa@empresa-ficticia.com.br;RH;15/13/2022;7295.29;Estoque
+PAT-10230;F780017;Celular;Apple;Fábio Oliveira;fábio.oliveira@empresa-ficticia.com.br;ti;12/08/23;R$4.353;em uso
+PAT-10114;D286483;Desk top;Dell;Fábio Santos;fábio.santos@empresa-ficticia.com.br;-;07.11.2024;5185.77;Em Uso
+PAT-10296;C667118;Desktop;HP;Hugo Santos;hugo.santos@empresa-ficticia.com.br;Financeiro;2022-08-11;R$5.634;uso
+PAT-10578;B180099;Notebook;Lenovo;Isabela Pereira;isabela.pereira@empresa-ficticia.com.br;Logística;;6663.59;uso
+PAT-10506;E559983;NOTEBOOK;Lenovo;Isabela Almeida;isabela.almeida@empresa-ficticia.com.br;RH;2024-11-17;7373,58;EM USO
+PAT-10586; e355135 ;Note book;Lenovo;Hugo Oliveira;hugo.oliveira@empresa-ficticia.com.br;Logística;2023-11-10;R$6.719;Descartado
+PAT-10329;G782468;Notebok;Lenovo;  HUGO Almeida ;hugo.almeida@empresa-ficticia.com.br;Diretoria;12/11/2021;7729,91;EM USO
+PAT-10356;H720226;Note book;HP;Bruno Santos;bruno.santos@empresa-ficticia.com.br;Financeiro;2021-05-08;5477,12;EM USO
+PAT-10247;B374165;Note book;Dell;Bruno Pereira;bruno.pereira@empresa-ficticia.com.br;TI;23/02/2021;R$7.226;em uso
+PAT-10311;H377296;Celular;Samsung;PEDRO SILVA;pedro.silva@empresa-ficticia.com.br;Financeiro;12/02/2025;R$3.546;Manutencao
+PAT-10054;B934840;Celular;Samsung;Nelson Oliveira;nelson.oliveira@empresa-ficticia.com.br;Engenharia;2024-09-19;R$ 4.921,49;Manutenção
+PAT-10467;H784826;smartphone;Apple;Gabriela Lima;gabriela.lima@empresa-ficticia.com.br;;28/06/2024;R$3.467;Em uso
+PAT-10459;F891138;notebook;HP;Olívia Pereira;olívia.pereira@empresa-ficticia.com.br;Diretoria;07/11/2024;6545,70;Estoque
+PAT-10385; h128578 ;Notebook;HP;Nelson Oliveira;nelson.oliveira@empresa-ficticia.com.br;Comercial;29/06/2021;6787,31;em uso
+PAT-10306;G973349;Monitor ;LG;Nelson Pereira;nelson.pereira@empresa-ficticia.com.br;Financeiro;2025-04-11;1138.85;em uso
+PAT-10210;H887739;Notebook;Lenovo;Diego Costa;diego.costa@empresa-ficticia.com.br;Engenharia;2024-05-23;R$ 7.693,06;Baixado
+PAT-10024;D910237;DESKTOP;Dell;Nelson Pereira;nelson.pereira@empresa-ficticia.com.br;Engenharia;26/09/2025;R$ 5.343,62;Baixado
+PAT-10384;E833503;Note book;HP;Carla Silva;carla.silva@empresa-ficticia.com.br;Engenharia;18/12/2024;5940,82;Baixado
+PAT-10525;B605780;desktop;Dell;Lucas Santos;lucas.santos@empresa-ficticia.com.br;Comercial;25/10/2022;-500,00;Descartado
+PAT-10493;B656415;MONITOR;LG;Diego Oliveira;n/a;TI;15-07-2025;1291,70;Em uso
+PAT-10018;A419259;tablet;Samsung;Bruno Souza;bruno.souza@empresa-ficticia.com.br;Engenharia;sem data;R$3.081;Em estoque
+PAT-10387;G178496;Notebook;lenovo;  GABRIELA Silva ;gabriela.silva@empresa-ficticia.com.br;RH;21-05-2021;6820.85;Em uso
+PAT-10336;C802061; Notebook ;hp;Pedro Silva;pedro.silva@empresa-ficticia.com.br;Financeiro;2025-04-26;R$ 5.794,91;em uso
+PAT-10087;G317494;Notebok;Dell;João Pereira;joão.pereira@empresa-ficticia.com.br;Financeiro;24.03.2025;5645,76;Em Uso
+PAT-10593;C779658;Smartphone;Apple;Pedro Santos;pedro.santos@empresa-ficticia.com.br;Diretoria;10/12/23;R$4.355;Manutencao
+PAT-10254;B495194;DESKTOP;HP;  JOÃO Santos ;joão.santos@empresa-ficticia.com.br;Diretoria;2024-08-26;R$ 4.304,89;Em Uso
+PAT-10597;C129613;Smartphone;Apple;Karen Lima;karenlimaempresa.com;Engenharia;28.03.2023;4977.90;EM USO
+PAT-10345;F759785;Celular;Apple;Ana Almeida;ana.almeida@empresa-ficticia.com.br;Logística;2024-03-13;4896.00;uso
+PAT-10416;H132394;Note book;Dell;João Lima;joão.lima@empresa-ficticia.com.br;Engenharia;02/04/2025;7513,48;descartado
+PAT-10168;E999580;MONITOR;LG;Mariana Pereira;mariana.pereira@empresa-ficticia.com.br;;2023-08-26;R$ 1.208,57;EM USO
+PAT-10218;B756706;Tablet;Apple;Diego Santos;diego.santos@empresa-ficticia.com.br;Diretoria;09/02/2025;3276,43;uso
+PAT-10051;D187742;Celular;Samsung;Isabela Silva;isabela.silva@empresa-ficticia.com.br;RH;09-04-2024;R$4.388;Estoque
+PAT-10449;D438390;Desk top;Dell;Lucas Oliveira;lucas.oliveira@empresa-ficticia.com.br;Diretoria;17-10-2021;R$ 5.022,90;Em Uso
+PAT-10496;E215471;NOTEBOOK;Dell;Bruno Oliveira;bruno.oliveira@empresa-ficticia.com.br;TI;09/06/2021;5514.05;Descartado
+PAT-10232; e880181 ;MONITOR;Dell;Gabriela Santos;gabriela.santos@empresa-ficticia.com.br;;31.08.2021;R$ 1.243,64;Manutencao
+PAT-10186; f142567 ;notebook;Dell;Hugo Souza;hugo.souza@empresa-ficticia.com.br;Financeiro;04/11/2021;6313,76;Descartado
+PAT-10564;G253697;Notebook;HP;Lucas Santos;lucas.santos@empresa-ficticia.com.br;Comercial;06.10.2021;6778.62;Em Uso
+PAT-10193;B588181;Note book;Dell;Karen Lima;n/a;rh;2022-07-25;R$ 6.574,70;Em Uso
+PAT-10549;B416825;smartphone;Samsung;Pedro Almeida;pedro.almeida@empresa-ficticia.com.br;TI;13.01.2021;R$ 4.928,29;Manutenção
+PAT-10030;G926895;Desktop;Dell;Nelson Lima;nelson.lima@empresa-ficticia.com.br;Logística;31/05/2022;5629,60;Em uso
+PAT-10066;A497768; Notebook ;Lenovo;Karen Costa;karen.costa@empresa-ficticia.com.br;Comercial;12-09-2022;6254,47;Em Uso
+PAT-10197;G396040;Tablet;Samsung;  HUGO Oliveira ;hugo.oliveira@empresa-ficticia.com.br;TI;19/03/22;3855.13;EM USO
+PAT-10319;G730279;MONITOR;Dell;Pedro Pereira;pedro.pereira@empresa-ficticia.com.br;Engenharia;26/09/2023;R$1.321;estoque
+PAT-10071; c556592 ;Smart phone;Apple;João Souza;joão.souza@empresa-ficticia.com.br;Comercial;04/05/2024;4744,92;Em uso
+PAT-10378;H276117;Celular;Samsung;Gabriela Almeida;gabriela.almeida@empresa-ficticia.com.br;Engenharia;21/12/21;R$ 3.691,61;uso
+PAT-10455;B712605;Monitor;LG;Isabela Santos;isabela.santos@empresa-ficticia.com.br;Financeiro;08/11/2021;R$1.153;em uso
+PAT-10572;H414794; Notebook ;Lenovo;Diego Pereira;diego.pereira@empresa-ficticia.com.br;RH;12/12/2022;R$ 7.218,16;uso
+PAT-10322;C997895;Notebok;Lenovo;Olívia Lima;olívia.lima@empresa-ficticia.com.br;Comercial;2023-03-02;R$5.553;Em Uso
+PAT-10580;C354582;NOTEBOOK;HP;  BRUNO Pereira ;bruno.pereira@empresa-ficticia.com.br;RH;2024-08-06;7559,24;Em uso
+PAT-10485;A651893;smartphone;Samsung;Carla Pereira;carla.pereira@empresa-ficticia.com.br;Engenharia;16/02/2024;3558,20;Em Uso
+PAT-10527;A306678; Notebook ;Dell;Fábio Costa;fábio.costa@empresa-ficticia.com.br;Comercial;14/01/2021;-;EM USO
+PAT-10015;F118850;monitor;Dell;Diego Souza;diego.souza@empresa-ficticia.com.br;Comercial;2022-04-18;1316,87;uso
+PAT-10266;H268112;Monitor;LG;João Pereira;joão.pereira@empresa-ficticia.com.br;Comercial;2022-10-02;R$ 1.167,02;uso
+PAT-10509;B192865;tablet;Apple;  BRUNO Santos ;bruno.santos@empresa-ficticia.com.br;Logística;16/08/2024;3586.85;Em manutenção
+PAT-10585;G861971; Notebook ;Dell;João Santos;joão.santos@empresa-ficticia.com.br;Comercial;04/02/21;5955,55;estoque
+PAT-10446; b371567 ;Celular;Motorola;Hugo Santos;hugo.santos@empresa-ficticia.com.br;Financeiro;14/03/2021;4471.16;Em Uso
+PAT-10358;D848465;Note book;Lenovo;Carla Santos;carla.santos@empresa-ficticia.com.br;Engenharia;21/06/2024;R$ 6.521,80;Em uso
+PAT-10539; g338117 ;Smart phone;Motorola;Pedro Santos;pedro.santos@empresa-ficticia.com.br;Comercial;08/10/2024;R$ 4.680,50;em uso
+PAT-10268;B341323;Celular;Samsung;Pedro Pereira;pedro.pereira@empresa-ficticia.com.br;Diretoria;11/06/25;5025,00;em uso
+PAT-10200;F141935;Smartphone;Apple;João Oliveira;joão.oliveira@empresa-ficticia.com.br;RH;02/07/2025;4264,92;Em manutenção
+PAT-10135;C533193;smartphone;Motorola;Gabriela Pereira;gabriela.pereira@empresa-ficticia.com.br;Comercial;24-03-2025;4006.89;EM USO
+PAT-10548; a874830 ;Monitor;dell;Carla Costa;carla.costa@empresa-ficticia.com.br;Logística;2025-08-24;R$1.445;Manutencao
+PAT-10331;G410250;Monitor;Samsung;Lucas Souza;lucas.souza@empresa-ficticia.com.br;Diretoria;10/05/2031;R$1.206;Em uso
+PAT-10366;D279090;Notebook;HP;Diego Almeida;diego.almeida@empresa-ficticia.com.br;RH;2021-07-18;5454,93;Em estoque
+PAT-10448; c606900 ;Desktop;HP;Carla Costa;carla.costa@empresa-ficticia.com.br;TI;02-04-2023;R$ 4.065,29;Em uso
+PAT-10181;F930198;Smart phone;Apple;João Pereira;joão.pereira@empresa-ficticia.com.br;Financeiro;2021-04-29;4267,04;em uso
+PAT-10227;F518829;Smart phone;Apple;Isabela Almeida;isabela.almeida@empresa-ficticia.com.br;Financeiro;2022-03-06;3731.03;estoque
+PAT-10594; f427649 ;Note book;dell;Pedro Oliveira;pedro.oliveira@empresa-ficticia.com.br;Engenharia;15/07/2025;R$7.565;uso
+PAT-10104;E891229;Desk top;Dell;  ELAINE Silva ;elaine.silva@empresa-ficticia.com.br;Financeiro;12/11/2023;4970,58;em uso
+PAT-10269; b430475 ;Monitor ;Samsung;Hugo Almeida;hugo.almeida@empresa-ficticia.com.br;Diretoria;30/11/2024;1259,00;uso
+PAT-10312;B696808;Desktop;HP;Nelson Costa;nelson.costa@empresa-ficticia.com.br;Logística;28/02/2021;4488.54;EM USO
+PAT-10241;A319503;Note book;Dell;Fábio Lima;fábio.lima@empresa-ficticia.com.br;TI;21/08/2021;7358,37;Baixado
+PAT-10294;C720261;monitor;LG;Lucas Santos;lucas.santos@empresa-ficticia.com.br;ti;20/10/21;R$1.313;Em uso
+PAT-10203;A431030;Notebok;HP;Karen Almeida;karen.almeida@empresa-ficticia.com.br;-;27/02/2023;R$6.354;em uso
+PAT-10568;F451653;smartphone;Apple;Carla Souza;carla.souza@empresa-ficticia.com.br;Financeiro;2021-10-17;R$4.918;em uso
+PAT-10083;C632131;Notebook;HP;Karen Almeida;karen.almeida@empresa-ficticia.com.br;Comercial;06/11/2025;R$ 7.243,04;descartado
+PAT-10118;G362902;notebook;HP;Carla Silva;carlasilvaempresa.com;TI;01/08/2021;5755,25;descartado
+PAT-10502;H446046; Notebook ;lenovo;Bruno Costa;bruno.costa@empresa-ficticia.com.br;TI;30/08/2024;5840,44;descartado
+PAT-10166;F716831;Note book;HP;  DIEGO Pereira ;diego.pereira@empresa-ficticia.com.br;Comercial;25/09/2021;6812.49;Manutenção
+PAT-10326;C875574;Monitor;Samsung;Carla Silva;carla.silva@empresa-ficticia.com.br;Diretoria;28/04/2021;R$ 1.125,45;Estoque
+PAT-10189;B655794;Monitor ;LG;Diego Oliveira;diego.oliveira@empresa-ficticia.com.br;Financeiro;02/06/2023;1358,24;uso
+PAT-10577;C437244;desktop;HP;Carla Pereira;carla.pereira@empresa-ficticia.com.br;Comercial;2021-07-21;4279.06;uso
+PAT-10528;H425272;Desktop;Dell;Pedro Costa;;TI;15/05/2024;R$ 4.159,61;uso
+PAT-10092;D463257;Notebok;Lenovo;Isabela Oliveira;isabela.oliveira@empresa-ficticia.com.br;Diretoria;10.07.2024;R$7.597;uso
+PAT-10261;F602078;desktop;Dell;  CARLA Lima ;carla.lima@empresa-ficticia.com.br;TI;14/06/23;R$3.843;Em Uso
+PAT-10138;G724024;NOTEBOOK;HP;Diego Santos;diego.santos@empresa-ficticia.com.br;Diretoria;31/02/2023;7393,38;Em Uso
+PAT-10276;G789720;Monitor ;Dell;Ana Costa;ana.costa@empresa-ficticia.com.br;Financeiro;13-10-2022;R$1.452;uso
+PAT-10056; c556327 ;Celular;Samsung;Mariana Almeida;mariana.almeida@empresa-ficticia.com.br;Financeiro;30-10-2025;3774,65;uso
+PAT-10543;C999400;Monitor ;Dell;Bruno Souza;bruno.souza@empresa-ficticia.com.br;Engenharia;09-02-2024;R$ 1.089,70;em uso
+PAT-10088;E824571;desktop;Dell;Isabela Souza;isabela.souza@empresa-ficticia.com.br;Diretoria;13/10/23;R$ 4.778,32;Em uso
+PAT-10425;F406885;Note book;Lenovo;Diego Souza;diego.souza@empresa-ficticia.com.br;Financeiro;2024-01-29;R$6.904;EM USO
+PAT-10362;B726548;Celular;apple;Olívia Almeida;olívia.almeida@empresa-ficticia.com.br;Engenharia;10/08/23;R$4.027;Em Uso
+PAT-10280;H915769;DESKTOP;Dell;Gabriela Silva;;TI;11/01/2022;4703,65;Baixado
+PAT-10139;G102727;NOTEBOOK;HP;Isabela Almeida;isabela.almeida@empresa-ficticia.com.br;Comercial;01-03-2025;R$5.402;em uso
+PAT-10522;D623710;Smart phone;Motorola;Fábio Souza;fábio.souza@empresa-ficticia.com.br;Engenharia;2021-07-22;R$ 4.247,04;Em uso
+PAT-10287;A757340;tablet;Apple;  ANA Oliveira ;anaoliveiraempresa.com;Financeiro;10/02/2023;3510.64;uso
+PAT-10304;A438713;Tablet;Samsung;Hugo Almeida;hugo.almeida@empresa-ficticia.com.br;Diretoria;16.01.2021;3986,88;Em Uso
+PAT-10023;C383666;Monitor;Samsung;Gabriela Costa;gabriela.costa@empresa-ficticia.com.br;Engenharia;22-07-2023;1248.88;Em estoque
+PAT-10164;H337129;Tablet;Apple;Gabriela Lima;gabriela.lima@empresa-ficticia.com.br;RH;2022-11-25;3481,45;uso
+PAT-10598;F727609;monitor;LG;Olívia Pereira;olívia.pereira@empresa-ficticia.com.br;Comercial;13/03/2022;R$ 1.104,20;Em uso
+PAT-10579;B763996;Notebook;Lenovo;  MARIANA Oliveira ;mariana.oliveira@empresa-ficticia.com.br;Financeiro;10/02/2023;R$ 7.517,14;EM USO
+PAT-10128;E437089;Smart phone;Apple;Hugo Almeida;hugo.almeida@empresa-ficticia.com.br;Logística;16/11/2025;R$4.207;em uso
+PAT-10437;B940784;Notebook;Lenovo;Carla Lima;carla.lima@empresa-ficticia.com.br;Engenharia;;R$6.336;descartado
+PAT-10240;G266590;Tablete;Apple;  NELSON Costa ;n/a;Financeiro;11/05/2024;R$3.303;em uso
+PAT-10529;H964634;Desk top;Dell;Karen Santos;karen.santos@empresa-ficticia.com.br;Logística;24.02.2021;5249,26;manutencao
+PAT-10434;H660496;Note book;Lenovo;Isabela Almeida;isabela.almeida@empresa-ficticia.com.br;Engenharia;11/02/2025;6459.83;Em Uso
+PAT-10262;A836392;notebook;Lenovo;Lucas Silva;lucas.silva@empresa-ficticia.com.br;Engenharia;2023-08-13;5537,05;em uso
+PAT-10098; f755644 ;notebook;Lenovo;Fábio Pereira;fábio.pereira@empresa-ficticia.com.br;Diretoria;16/02/21;5852,78;Em estoque
+PAT-10442; g293961 ;Note book;Lenovo;  ANA Souza ;ana.souza@empresa-ficticia.com.br;RH;09/08/2022;R$ 7.537,36;Baixado
+PAT-10470;A625850;DESKTOP;HP;Hugo Pereira;hugo.pereira@empresa-ficticia.com.br;Comercial;31/01/2025;4820,59;Em manutenção
+PAT-10557;D653593;Note book;Dell;Karen Pereira;karen.pereira@empresa-ficticia.com.br;Engenharia;06/01/2021;6193,04;descartado
+PAT-10463;B973404;Tablet;Samsung;Bruno Lima;bruno.lima@empresa-ficticia.com.br;Logística;22/04/2021;3097.98;Em uso
+PAT-10202;D436914;notebook;Lenovo;Karen Almeida;karen.almeida@empresa-ficticia.com.br;Financeiro;11/01/24;7660,55;EM USO
+PAT-10003;D622025;Monitor;Samsung;Elaine Santos;elaine.santos@empresa-ficticia.com.br;Diretoria;15/02/2022;1391,33;Em Uso
+PAT-10391; f583365 ;Smartphone;Samsung;Isabela Lima;isabela.lima@empresa-ficticia.com.br;Diretoria;2023-02-18;R$3.503;Em estoque
+PAT-10066;A497768; Notebook ;Lenovo;Karen Costa;karen.costa@empresa-ficticia.com.br;Comercial;12-09-2022;6254,47;Em Uso
+PAT-10575;A211036;Tablete;Samsung;Bruno Santos;bruno.santos@empresa-ficticia.com.br;Comercial;21/11/2025;3623.83;uso
+PAT-10146;A715795;Smartphone;Apple;Nelson Souza;;Engenharia;29-07-2021;R$ 3.639,41;uso
+PAT-10328;G684635;Notebook;Lenovo;Elaine Pereira;elaine.pereira@empresa-ficticia.com.br;Engenharia;11/04/2025;R$6.536;Em Uso
+PAT-10019;A141568;Notebok;Lenovo;Isabela Almeida;isabela.almeida@empresa-ficticia.com.br;rh;26/04/2025;R$ 6.269,30;EM USO
+PAT-10567;E206433;desktop;dell;Diego Oliveira;diego.oliveira@empresa-ficticia.com.br;rh;28/05/2024;R$ 4.368,72;uso
+PAT-10260;G279137;Tablet;Apple;Olívia Oliveira;olívia.oliveira@empresa-ficticia.com.br;Engenharia;11/09/2022;R$3.506;Estoque
+PAT-10298;G397436;Notebook;hp;Lucas Lima;lucas.lima@empresa-ficticia.com.br;Comercial;14-09-2024;6543,42;uso
+PAT-10468;C355574; Notebook ;Lenovo;Hugo Costa;hugo.costa@empresa-ficticia.com.br;Logística;11/05/24;R$ 6.927,47;uso
+PAT-10399;A970369;monitor;Dell;  KAREN Costa ;karen.costa@empresa-ficticia.com.br;Comercial;2024-09-09;1551,51;Em uso
+PAT-10190;H330052;Notebok;HP;Elaine Lima;elaine.lima@empresa-ficticia.com.br;Logística;06/09/2025;6758,52;uso
+PAT-10548; a874830 ;Monitor;dell;Carla Costa;carla.costa@empresa-ficticia.com.br;Logística;2025-08-24;R$1.445;Manutencao
+PAT-10596;B677968;Note book;Lenovo;  MARIANA Oliveira ;mariana.oliveira@empresa-ficticia.com.br;RH;23-11-2022;R$7.692;em uso
+PAT-10196;E412241;Smartphone;Samsung;Nelson Silva;nelson.silva@empresa-ficticia.com.br;Engenharia;2024-07-25;R$3.397;em uso
+PAT-10140;C138948;Notebook;Lenovo;Olívia Lima;olívia.lima@empresa-ficticia.com.br;Engenharia;30.01.2024;7715.02;uso
+PAT-10082; f825495 ;Desk top;HP;  MARIANA Costa ;mariana.costa@empresa-ficticia.com.br;Comercial;13/11/2021;R$ 3.927,58;Descartado
+PAT-10402;B106379;NOTEBOOK;Dell;  DIEGO Oliveira ;diego.oliveira@empresa-ficticia.com.br;Logística;03/09/2025;6109.85;EM USO
+PAT-10201;H522194; Notebook ;HP;Pedro Oliveira;pedro.oliveira@empresa-ficticia.com.br;TI;29.01.2025;6752,34;Estoque
+PAT-10588;D402273;MONITOR;Samsung;Diego Almeida;diego.almeida@empresa-ficticia.com.br;TI;2025-01-25;1204.61;uso
+PAT-10084;B217132;NOTEBOOK;Dell;Isabela Oliveira;isabela.oliveira@empresa-ficticia.com.br;TI;11/02/2025;6164,57;estoque
+PAT-10352;B774704;NOTEBOOK;Lenovo;Diego Oliveira;diego.oliveira@empresa-ficticia.com.br;Engenharia;14/04/21;R$7.545;EM USO
+PAT-10595;C868240;Monitor ;Samsung;Elaine Almeida;elaine.almeida@empresa-ficticia.com.br;Diretoria;24/09/2025;R$ 1.085,40;Em uso
+PAT-10179;E511854;tablet;Apple;Nelson Pereira;nelson.pereira@empresa-ficticia.com.br;TI;24/10/2025;R$3.607;uso
+PAT-10099;A136404;Smartphone;Motorola;Carla Costa;carla.costa@empresa-ficticia.com.br;Comercial;30/06/25;R$ 4.489,15;uso
+PAT-10361;F970076;Celular;Samsung;  FÁBIO Lima ;fábio.lima@empresa-ficticia.com.br;ti;18.06.2025;R$ 3.505,47;Em uso
+PAT-10074;H206911;Monitor ;Dell;Fábio Oliveira;fábio.oliveira@empresa-ficticia.com.br;Engenharia;28/02/22;1068.49;em uso
+PAT-10007;G653956;Monitor;Samsung;Diego Costa;diego.costa@empresa-ficticia.com.br;Logística;2025-01-05;1215,84;EM USO
+PAT-10447;G215036; Notebook ;HP;  NELSON Oliveira ;nelson.oliveira@empresa-ficticia.com.br;Diretoria;18/01/2022;6281.62;Em Uso
+PAT-10273;H683498;Monitor ;LG;Lucas Oliveira;lucas.oliveira@empresa-ficticia.com.br;Logística;28-08-2024;1201,01;uso
+PAT-10279;E368337;Smartphone;Samsung;Lucas Souza;lucas.souza@empresa-ficticia.com.br;Engenharia;15/04/2022;R$ 3.420,60;em uso
+PAT-10154; b741917 ;Note book;Dell;Hugo Lima;hugo.lima@empresa-ficticia.com.br;RH;07/09/2021;R$7.150;em uso
+PAT-10404;B176220;MONITOR;LG;João Almeida;joão.almeida@empresa-ficticia.com.br;Engenharia;06/06/23;1463.91;EM USO
+PAT-10191;G903780;notebook;Lenovo;Olívia Almeida;olívia.almeida@empresa-ficticia.com.br;Comercial;31/02/2023;R$ 5.290,74;EM USO
+PAT-10571;C643932;NOTEBOOK;HP;Isabela Almeida;isabela.almeida@empresa-ficticia.com.br;Comercial;26/04/2023;R$7.369;Descartado
+PAT-10400;F182778;Monitor ;Dell;João Almeida;joão.almeida@empresa-ficticia.com.br;RH;22/08/25;R$1.340;EM USO
+PAT-10462;C926778;Notebook;Lenovo;Diego Souza;diego.souza@empresa-ficticia.com.br;TI;05/11/2021;R$ 6.128,82;uso
+PAT-10050;B325478;TABLET;Samsung;Ana Pereira;ana.pereira@empresa-ficticia.com.br;Financeiro;22.04.2023;R$ 2.844,50;Em uso
+PAT-10038;G200379;smartphone;Samsung;Pedro Silva;pedro.silva@empresa-ficticia.com.br;Logística;2021-10-27;R$3.677;em uso
+PAT-10208;H743123;Monitor;Dell;Gabriela Pereira;gabriela.pereira@empresa-ficticia.com.br;RH;22-12-2022;R$ 1.141,99;Em Uso
+PAT-10005;H899554;desktop;Dell;  JOÃO Souza ;joão.souza@empresa-ficticia.com.br;Financeiro;25/10/2024;4018.35;descartado
+PAT-10075;C563070;Celular;Apple;Elaine Lima;elaine.lima@empresa-ficticia.com.br;Engenharia;05/07/22;4513.61;uso
+PAT-10248;F160460;desktop;Dell;Bruno Souza;bruno.souza@empresa-ficticia.com.br;Comercial;07.06.2024;R$5.143;Descartado
+PAT-10047;A371571;MONITOR;Dell;Olívia Santos;olívia.santos@empresa-ficticia.com.br;Diretoria;12/05/24;-;Em uso
+PAT-10302;H404784;DESKTOP;HP;Isabela Costa;isabela.costa@empresa-ficticia.com.br;Logística;19/01/2022;R$ 3.889,65;uso
+PAT-10070;C760444;Monitor;Dell;Nelson Silva;nelson.silva@empresa-ficticia.com.br;Comercial;22-01-2021;R$1.114;estoque
+PAT-10415;H811048; Notebook ;HP;Hugo Costa;hugo.costa@empresa-ficticia.com.br;Engenharia;2021-08-30;R$ 7.395,83;em uso
+PAT-10329;G782468;Notebok;Lenovo;  HUGO Almeida ;hugo.almeida@empresa-ficticia.com.br;Diretoria;12/11/2021;7729,91;EM USO
+PAT-10225;H910523;monitor;Samsung;Gabriela Oliveira;gabriela.oliveira@empresa-ficticia.com.br;Financeiro;2024-02-07;1376,41;em uso
+PAT-10286;A780330;Monitor ;Dell;Gabriela Souza;gabriela.souza@empresa-ficticia.com.br;Engenharia;21.08.2024;1082,45;uso
+PAT-10011;B265294;Note book;HP;Karen Souza;karen.souza@empresa-ficticia.com.br;Financeiro;22.11.2024;R$ 5.279,21;EM USO
+PAT-10401;C308650;Monitor;LG;Gabriela Santos;gabriela.santos@empresa-ficticia.com.br;Financeiro;2021-07-29;1542.16;Manutenção
+PAT-10150;D214119;MONITOR;LG;  KAREN Costa ;karen.costa@empresa-ficticia.com.br;Diretoria;23/02/2024;1230,05;manutencao
+PAT-10418;D247307;DESKTOP;Dell;Lucas Souza;lucassouzaempresa.com;Financeiro;17/08/2024;R$4.090;uso
+PAT-10115;F340863;tablet;Samsung;Fábio Pereira;fábio.pereira@empresa-ficticia.com.br;;15.12.2024;3666,92;EM USO
+PAT-10281;F331718;desktop;HP;  CARLA Pereira ;carla.pereira@empresa-ficticia.com.br;TI;03-08-2023;4703.33;uso
+PAT-10253;G993221;Monitor;Dell;Carla Pereira;carla.pereira@empresa-ficticia.com.br;Logística;03/09/2024;R$ 1.343,26;EM USO
+PAT-10195;A496034; Notebook ;HP;Carla Souza;carla.souza@empresa-ficticia.com.br;Financeiro;2022-08-11;5281.24;Em uso
+PAT-10590;D669617;TABLET;Apple;Elaine Silva;n/a;Financeiro;20.01.2023;R$ 3.213,83;EM USO
+PAT-10065;E280899;smartphone;Motorola;Diego Lima;diego.lima@empresa-ficticia.com.br;Engenharia;02.12.2022;R$4.361;Em uso
+PAT-10409;C759983;MONITOR;LG;Olívia Almeida;olívia.almeida@empresa-ficticia.com.br;Financeiro;06/05/2025;1185.84;uso
+PAT-10427;E831215; Notebook ;dell;Diego Silva;diego.silva@empresa-ficticia.com.br;Engenharia;2024-12-12;7354.92;estoque
+PAT-10219; c508130 ;NOTEBOOK;HP;  DIEGO Pereira ;diego.pereira@empresa-ficticia.com.br;TI;2025-09-27;6302,47;EM USO
+PAT-10369;E709298;Desktop;Dell;Isabela Almeida;isabela.almeida@empresa-ficticia.com.br;Comercial;07/11/2023;4866.10;Manutenção
+PAT-10381;C231027;Celular;Motorola;Elaine Santos;elaine.santos@empresa-ficticia.com.br;RH;21/09/2025;R$3.885;EM USO
+PAT-10069; c941605 ;Tablete;Samsung;Gabriela Santos;gabriela.santos@empresa-ficticia.com.br;TI;2021-11-18;R$ 4.065,24;estoque
+PAT-10093;C705199;Tablete;Apple;Olívia Almeida;olívia.almeida@empresa-ficticia.com.br;Logística;19/07/23;R$ 3.038,35;uso
+PAT-10068;G972632;desktop;Dell;Isabela Pereira;n/a;Financeiro;09-06-2021;4829,40;Estoque
+PAT-10021;B559109;DESKTOP;HP;  LUCAS Silva ;lucas.silva@empresa-ficticia.com.br;RH;2021-07-21;4592,32;uso
+PAT-10077;E241062;Tablet;Samsung;João Santos;joão.santos@empresa-ficticia.com.br;TI;04/09/2023;R$ 3.326,71;em uso
+PAT-10513;A362846;Notebook;Lenovo;Mariana Souza;mariana.souza@empresa-ficticia.com.br;-;21-06-2025;6706.39;em uso
+PAT-10458;H346192;Note book;hp;Fábio Silva;fábio.silva@empresa-ficticia.com.br;TI;2023-09-25;R$ 5.264,96;uso
+PAT-10236;A843617;Celular;Apple;Elaine Pereira;elaine.pereira@empresa-ficticia.com.br;Engenharia;15/13/2022;3944,65;EM USO
+PAT-10445;F588685;Desktop;Dell;João Souza;joão.souza@empresa-ficticia.com.br;RH;17/03/2022;4095.66;em uso
+PAT-10314;C367587;Notebok;Lenovo;Pedro Oliveira;pedro.oliveira@empresa-ficticia.com.br;Diretoria;19/05/2024;5617.85;Em uso
+PAT-10125;D476625;tablet;Samsung;Diego Santos;diego.santos@empresa-ficticia.com.br;RH;27/04/2025;3937.04;Estoque
+PAT-10228;G820362; Notebook ;Lenovo;Carla Souza;carla.souza@empresa-ficticia.com.br;TI;2022-07-02;R$7.782;EM USO
+PAT-10439;F252507;Celular;Motorola;Olívia Oliveira;olívia.oliveira@empresa-ficticia.com.br;Logística;2024-11-10;3756,63;em uso
+PAT-10042;A288486;DESKTOP;Dell;Fábio Almeida;fábio.almeida@empresa-ficticia.com.br;ti;04-12-2023;4813.60;Baixado
+PAT-10004;G567445;Desk top;Dell;João Pereira;joão.pereira@empresa-ficticia.com.br;-;04-01-2021;4443,34;estoque
+PAT-10377;E406855;TABLET;Samsung;Carla Pereira;carla.pereira@empresa-ficticia.com.br;Comercial;03/11/2024;-500,00;Descartado
+PAT-10487;E132823;Notebok;Lenovo;Hugo Costa;hugo.costa@empresa-ficticia.com.br;TI;23/08/24;7679,94;Em Uso
+PAT-10064;E959539;Monitor ;LG;Karen Lima;karen.lima@empresa-ficticia.com.br;Diretoria;sem data;1108,30;Em Uso
+PAT-10039;A191891;MONITOR;Samsung;Fábio Santos;fábio.santos@empresa-ficticia.com.br;Logística;2025-03-26;verificar;Manutencao
+PAT-10109;A770234;Tablet;Samsung;Olívia Santos;olívia.santos@empresa-ficticia.com.br;Financeiro;10/01/2023;R$ 3.341,34;Em manutenção
+PAT-10255;B506762;Desktop;Dell;Karen Santos;karen.santos@empresa-ficticia.com.br;TI;17/10/2025;5337,78;Em estoque
+PAT-10438;F590100;Smart phone;Samsung;Gabriela Santos;gabriela.santos@empresa-ficticia.com.br;Comercial;08/08/2025;3762.33;Manutenção
+PAT-10374;D525106;Monitor ;LG;Nelson Souza;nelson.souza@empresa-ficticia.com.br;RH;24/05/2023;1301.14;Em estoque
+PAT-10205;D268697;Tablete;Apple;Fábio Pereira;fábio.pereira@empresa-ficticia.com.br;RH;01/11/2021;R$3.281;em uso
+PAT-10510;H398997; Notebook ;Dell;Olívia Lima;olívia.lima@empresa-ficticia.com.br;ti;12-08-2022;R$5.591;manutencao
+PAT-10147;C709521;Monitor ;Samsung;  GABRIELA Pereira ;gabriela.pereira@empresa-ficticia.com.br;RH;11/07/23;R$1.357;descartado
+PAT-10006;D607620;monitor;Samsung;Ana Almeida;ana.almeida@empresa-ficticia.com.br;Financeiro;2023-06-04;1516.98;uso
+PAT-10505;H422646;NOTEBOOK;HP;Karen Pereira;karen.pereira@empresa-ficticia.com.br;Engenharia;27/08/2023;5387.10;Em uso
+PAT-10290;H922077;Tablet;Apple;Hugo Souza;hugo.souza@empresa-ficticia.com.br;RH;05.01.2022;R$ 3.880,11;em uso
+PAT-10411;A987926;smartphone;Samsung;Fábio Almeida;fábio.almeida@empresa-ficticia.com.br;RH;15.05.2021;4703,19;Baixado
+PAT-10443;H880201;Tablete;Apple;  PEDRO Silva ;pedro.silva@empresa-ficticia.com.br;Comercial;16/05/2021;R$3.561;Em Uso
+PAT-10407;B380681;TABLET;Apple;  ISABELA Santos ;isabela.santos@empresa-ficticia.com.br;Diretoria;15/13/2022;R$3.830;EM USO
+PAT-10358;D848465;Note book;Lenovo;Carla Santos;carla.santos@empresa-ficticia.com.br;Engenharia;21/06/2024;R$ 6.521,80;Em uso
+PAT-10499; a597928 ;tablet;Samsung;Gabriela Souza;gabriela.souza@empresa-ficticia.com.br;TI;01/03/2024;R$3.043;EM USO
+PAT-10259;C675494;NOTEBOOK;Dell;Hugo Souza;hugo.souza@empresa-ficticia.com.br;TI;16/11/2021;R$5.338;Em Uso
+PAT-10282;C879599;Celular;Motorola;João Lima;joão.lima@empresa-ficticia.com.br;Comercial;2024-01-20;R$ 4.425,53;EM USO
+PAT-10122;A871202;DESKTOP;Dell;Isabela Lima;isabela.lima@empresa-ficticia.com.br;RH;14-02-2023;4738,70;Em uso
+PAT-10078; g726325 ; Notebook ;Dell;Hugo Oliveira;hugo.oliveira@empresa-ficticia.com.br;Diretoria;2022-12-20;6135,04;Em uso
+PAT-10570; b147758 ;NOTEBOOK;Lenovo;Pedro Silva;pedro.silva@empresa-ficticia.com.br;Engenharia;2023-10-21;R$ 7.342,55;Em estoque
+PAT-10320;C262867;Smartphone;Motorola;Elaine Costa;n/a;Logística;10/09/2022;4694,62;uso
+PAT-10592; d834504 ;Notebok;Dell;Pedro Costa;pedro.costa@empresa-ficticia.com.br;TI;05-05-2025;R$7.111;uso
+PAT-10151;C883562;Tablete;Apple;Diego Oliveira;diego.oliveira@empresa-ficticia.com.br;Financeiro;20.02.2022;R$4.182;Manutencao
+PAT-10375;H883585;smartphone;Motorola;Bruno Oliveira;bruno.oliveira@empresa-ficticia.com.br;Financeiro;03/10/2025;4664,64;estoque
+PAT-10299;F270875; Notebook ;Dell;Karen Pereira;karen.pereira@empresa-ficticia.com.br;Logística;2023-03-18;7016,62;uso
+PAT-10453; c213917 ;MONITOR;lg;Hugo Costa;hugo.costa@empresa-ficticia.com.br;Financeiro;29/10/2024;1365,68;estoque
+PAT-10449;D438390;Desk top;Dell;LUCAS OLIVEIRA;lucas.oliveira@empresa-ficticia.com.br;Diretoria;17-10-2021;R$ 5.022,90;Em Uso
+PAT-10163;H284407;notebook;HP;Ana Costa;ana.costa@empresa-ficticia.com.br;TI;11/03/22;5208,91;Em uso
+PAT-10521;D718060;desktop;HP;Fábio Almeida;fábio.almeida@empresa-ficticia.com.br;rh;08/01/2023;3916,00;uso
+PAT-10396;B955292;tablet;Apple;Lucas Almeida;lucas.almeida@empresa-ficticia.com.br;RH;11/06/21;4115.61;Manutenção
+PAT-10325;A278749;Desk top;HP;Ana Almeida;ana.almeida@empresa-ficticia.com.br;Engenharia;13/01/2021;R$5.565;estoque
+PAT-10403;E930286;NOTEBOOK;Lenovo;Hugo Almeida;hugo.almeida@empresa-ficticia.com.br;Engenharia;05.03.2022;5868,77;em uso
+PAT-10265; f824036 ;Smartphone;Samsung;Mariana Lima;mariana.lima@empresa-ficticia.com.br;Logística;21/02/2024;4737,04;em uso
+PAT-10551;A673615;notebook;HP;Nelson Costa;nelson.costa@empresa-ficticia.com.br;rh;31/02/2023;7062.73;uso
+PAT-10147;C709521;Monitor ;Samsung;  GABRIELA Pereira ;gabriela.pereira@empresa-ficticia.com.br;RH;11/07/23;R$1.357;descartado
+PAT-10424;H940968;notebook;Dell;João Silva;joão.silva@empresa-ficticia.com.br;Comercial;23/08/2022;6137,43;Em Uso
+PAT-10524;B191698;DESKTOP;HP;Bruno Lima;bruno.lima@empresa-ficticia.com.br;Financeiro;30/05/2023;R$ 5.197,30;uso
+PAT-10301;B383722;NOTEBOOK;HP;Gabriela Silva;gabriela.silva@empresa-ficticia.com.br;RH;01/05/2022;7011.69;uso
+PAT-10278;C244745;Celular;Samsung;Ana Santos;ana.santos@empresa-ficticia.com.br;Financeiro;15/11/2025;3848.15;EM USO
+PAT-10143;D381087;desktop;HP;João Pereira;joão.pereira@empresa-ficticia.com.br;TI;10-05-2024;5206,18;Em estoque
+PAT-10465;H957113;MONITOR;LG;Lucas Souza;lucas.souza@empresa-ficticia.com.br;Comercial;2021-04-05;R$ 1.528,36;em uso
+PAT-10469;C333783;Desktop;Dell;Elaine Costa;elaine.costa@empresa-ficticia.com.br;Comercial;08-07-2024;R$ 4.931,62;EM USO
+PAT-10199;G826494;monitor;Dell;Mariana Lima;mariana.lima@empresa-ficticia.com.br;Engenharia;26/03/2021;R$ 1.155,36;Em uso
+PAT-10041;E737531;Monitor ;Dell;Diego Costa;diego.costa@empresa-ficticia.com.br;Logística;17/04/21;R$ 1.174,65;EM USO
+PAT-10456;D100165;TABLET;Apple;Gabriela Almeida;gabriela.almeida@empresa-ficticia.com.br;Diretoria;30/04/2021;R$ 3.089,01;em uso
+PAT-10573;E115203;Smartphone;Apple;Nelson Silva;nelson.silva@empresa-ficticia.com.br;Comercial;10/03/25;3398.56;estoque
+PAT-10517;E266059;NOTEBOOK;HP;Karen Souza;karen.souza@empresa-ficticia.com.br;Comercial;31-12-2022;-;EM USO
+PAT-10364;C161951;MONITOR;Dell;  OLÍVIA Silva ;olívia.silva@empresa-ficticia.com.br;Logística;26/05/2023;R$1.427;EM USO
+PAT-10231;A332688;Notebook;Lenovo;Mariana Santos;mariana.santos@empresa-ficticia.com.br;RH;16/04/2021;R$ 5.670,41;EM USO
+PAT-10245;D295637;Monitor;samsung;  ANA Almeida ;ana.almeida@empresa-ficticia.com.br;Financeiro;08/12/22;R$1.431;Em Uso
+PAT-10433;D635894;Tablete;Apple;Pedro Santos;pedro.santos@empresa-ficticia.com.br;Engenharia;11/12/2023;R$ 3.632,67;Em Uso
+PAT-10313;H475860;DESKTOP;Dell;Karen Souza;karen.souza@empresa-ficticia.com.br;Logística;07/07/2022;5674.68;Em uso
+PAT-10167;D996342;Monitor;Dell;  PEDRO Almeida ;pedro.almeida@empresa-ficticia.com.br;RH;20-07-2025;1551.67;uso
+PAT-10332;A877794;Monitor ;Dell;Karen Pereira;karen.pereira@empresa-ficticia.com.br;RH;08/04/2023;R$ 1.246,39;Em uso
+PAT-10158;B140059;Smartphone;Motorola;Carla Santos;carla.santos@empresa-ficticia.com.br;Financeiro;01/10/2022;R$ 3.747,32;EM USO
+PAT-10494;C352124;monitor;Dell;Carla Oliveira;carla.oliveira@empresa-ficticia.com.br;Logística;12-05-2021;1559,11;Em Uso
+PAT-10263;F491910;Notebook;HP;Mariana Pereira;mariana.pereira@empresa-ficticia.com.br;RH;10/08/2021;7600,57;uso
+PAT-10426;A661240;TABLET;Samsung;Isabela Pereira;isabela.pereira@empresa-ficticia.com.br;-;14/11/2025;3551,41;Manutenção
+PAT-10029;G292760;Monitor;Samsung;Fábio Costa;n/a;Diretoria;15/05/2021;1336,78;Estoque
+PAT-10238;E465195;notebook;HP;Karen Pereira;karen.pereira@empresa-ficticia.com.br;RH;06/04/2023;R$6.058;em uso
+PAT-10250;E607560;Note book;HP;Isabela Santos;isabela.santos@empresa-ficticia.com.br;TI;23/08/2025;6381,17;EM USO
+PAT-10162;E515500;Note book;Lenovo;Pedro Almeida;pedro.almeida@empresa-ficticia.com.br;Financeiro;2021-07-23;R$7.339;Em Uso
+PAT-10149;E977408;MONITOR;LG;Hugo Pereira;hugo.pereira@empresa-ficticia.com.br;Comercial;27/12/2023;R$1.501;em uso
+PAT-10226;D899962;Note book;HP;Isabela Costa;isabela.costa@empresa-ficticia.com.br;RH;13/01/2023;5959,79;uso
+PAT-10353;A948261;NOTEBOOK;HP;Nelson Lima;nelson.lima@empresa-ficticia.com.br;Engenharia;29.06.2022;6420,92;Baixado
+PAT-10553;D578873;Smart phone;Apple;Diego Silva;diego.silva@empresa-ficticia.com.br;Comercial;02/07/24;R$ 3.949,87;EM USO
+PAT-10094;C852990;Monitor;Dell;Mariana Almeida;mariana.almeida@empresa-ficticia.com.br;Engenharia;27/05/2022;1518,21;Em manutenção
+PAT-10440;B237568;MONITOR;Dell;Ana Almeida;ana.almeida@empresa-ficticia.com.br;TI;2022-02-02;1491,45;Em uso
+PAT-10123;A456795;Monitor ;LG;HUGO LIMA;hugo.lima@empresa-ficticia.com.br;RH;03/05/2021;1262.73;Em uso
+PAT-10221;G865798;tablet;Apple;Isabela Oliveira;isabela.oliveira@empresa-ficticia.com.br;TI;18.02.2025;3720.42;EM USO
+PAT-10085;B753216;monitor;Samsung;Carla Silva;carla.silva@empresa-ficticia.com.br;Financeiro;2024-01-24;R$ 1.155,46;Em estoque
+PAT-10388;A925624;Tablete;Samsung;Bruno Lima;bruno.lima@empresa-ficticia.com.br;Financeiro;18-09-2025;3792.41;uso
+PAT-10187;D413001;MONITOR;LG;Hugo Oliveira;hugo.oliveira@empresa-ficticia.com.br;Engenharia;21/06/2022;1506,62;EM USO
+PAT-10089;E320973;DESKTOP;Dell;Isabela Costa;isabela.costa@empresa-ficticia.com.br;Diretoria;2022-02-23;5717.87;Em Uso
+PAT-10141;H219069;monitor;LG;ANA SOUZA;ana.souza@empresa-ficticia.com.br;TI;16/07/2024;R$1.398;Em uso
+PAT-10034;G286798;smartphone;Motorola;Nelson Oliveira;nelsonoliveiraempresa.com;Comercial;17/06/2023;R$4.363;EM USO
+PAT-10217;G648819;notebook;Dell;Fábio Lima;fábio.lima@empresa-ficticia.com.br;Financeiro;15/03/2023;7067,52;Em uso
+PAT-10072;D290530;monitor;LG;Gabriela Oliveira;gabriela.oliveira@empresa-ficticia.com.br;Financeiro;05/10/21;1159,21;Manutencao
+PAT-10305;F477545;Notebook;Lenovo;Carla Santos;carla.santos@empresa-ficticia.com.br;Financeiro;22-08-2022;R$ 6.892,79;uso
+PAT-10220;G887908;tablet;Apple;Karen Pereira;karen.pereira@empresa-ficticia.com.br;Engenharia;05/10/2021;3289,50;uso
+PAT-10542;A626267;Desktop;Dell;João Oliveira;joão.oliveira@empresa-ficticia.com.br;Comercial;2022-03-14;R$ 4.898,01;EM USO
+PAT-10554;F382472;Celular;Motorola;Gabriela Santos;gabriela.santos@empresa-ficticia.com.br;Diretoria;13/04/2022;3973,74;descartado
+PAT-10395;A365864; Notebook ;Lenovo;Gabriela Souza;gabriela.souza@empresa-ficticia.com.br;Logística;17/11/2022;6746,79;Em uso
+PAT-10394;G302321;tablet;Samsung;Olívia Santos;olívia.santos@empresa-ficticia.com.br;Comercial;25/02/2021;3680.78;uso
+PAT-10110;D845163;monitor;Dell;Diego Santos;diego.santos@empresa-ficticia.com.br;RH;10/02/2022;1066.38;Em uso
+PAT-10367;F237507;Tablete;Samsung;Bruno Almeida;bruno.almeida@empresa-ficticia.com.br;TI;23/07/2022;R$3.757;em uso
+PAT-10412;D563586;Desk top;Dell;Diego Oliveira;diego.oliveira@empresa-ficticia.com.br;RH;04/05/24;5055,00;EM USO
+PAT-10012;D610808;Desktop;HP;Bruno Oliveira;bruno.oliveira@empresa-ficticia.com.br;Logística;10-01-2022;5220,08;em uso
+PAT-10544;G400104;Tablete;apple;Fábio Pereira;fábio.pereira@empresa-ficticia.com.br;TI;17.12.2022;R$2.937;EM USO
+PAT-10343;E876212;Notebok;HP;Diego Pereira;diego.pereira@empresa-ficticia.com.br;Comercial;26/11/2025;5664.12;uso
+PAT-10198;D677657; Notebook ;Dell;Hugo Costa;hugo.costa@empresa-ficticia.com.br;Diretoria;24/07/2025;6335,98;Descartado
+PAT-10213;A673014; Notebook ;HP;Lucas Costa;lucas.costa@empresa-ficticia.com.br;Comercial;27/07/2022;R$6.461;EM USO
+PAT-10599;C465601;Smart phone;Samsung;João Costa;joão.costa@empresa-ficticia.com.br;Engenharia;17-10-2024;4699,14;estoque
+PAT-10234;B489018;Smartphone;Apple;Nelson Souza;nelson.souza@empresa-ficticia.com.br;Diretoria;2024-01-17;5024,74;estoque
+PAT-10591;A177067;Monitor ;Dell;Nelson Oliveira;nelson.oliveira@empresa-ficticia.com.br;Logística;2023-10-07;verificar;Em uso
+PAT-10420;B755086;smartphone;Motorola;Lucas Santos;lucas.santos@empresa-ficticia.com.br;Financeiro;2021-11-24;R$4.412;EM USO
+PAT-10431;H323963;Monitor ;Samsung;Diego Lima;diego.lima@empresa-ficticia.com.br;Diretoria;30.05.2025;1109,67;Em uso
+PAT-10534;D458106;Note book;Dell;Ana Souza;ana.souza@empresa-ficticia.com.br;Comercial;19/03/2023;5731.50;Em uso
+PAT-10216;B964560;Celular;motorola;Nelson Almeida;nelson.almeida@empresa-ficticia.com.br;Comercial;04.08.2022;R$4.854;EM USO
+PAT-10096;B260841;Desktop;Dell;Isabela Souza;isabela.souza@empresa-ficticia.com.br;RH;01/12/2023;5341,66;Em Uso
+PAT-10461; g938199 ;smartphone;Samsung;Mariana Pereira;mariana.pereira@empresa-ficticia.com.br;Comercial;2021-04-24;3862,45;Em uso
+PAT-10574;D934727;NOTEBOOK;HP;Ana Costa;ana.costa@empresa-ficticia.com.br;Diretoria;2022-11-27;-500,00;Em uso
+PAT-10297;G451323;smartphone;Motorola;Lucas Souza;lucassouzaempresa.com;RH;03/05/2024;R$3.843;Em Uso
+PAT-10063;G428875;Notebok;HP;Mariana Almeida;mariana.almeida@empresa-ficticia.com.br;Logística;16-02-2022;7777.52;Em Uso
+PAT-10222;B881715;MONITOR;LG;Pedro Oliveira;pedrooliveiraempresa.com;Logística;24/10/2023;R$ 1.399,88;Baixado
+PAT-10452;E264016;Notebok;HP;Karen Silva;karen.silva@empresa-ficticia.com.br;Financeiro;17.12.2021;5876,55;Em estoque
+PAT-10095;B813160;TABLET;samsung;Isabela Costa;isabela.costa@empresa-ficticia.com.br;RH;28/07/2024;R$3.760;EM USO
+PAT-10013; d765333 ;Tablet;Samsung;Nelson Costa;nelson.costa@empresa-ficticia.com.br;Diretoria;2022-05-11;3498.14;EM USO
+PAT-10327;A340423;Monitor ;Samsung;Ana Souza;ana.souza@empresa-ficticia.com.br;Engenharia;25-03-2025;1511.49;Manutenção
+PAT-10435;D764699;DESKTOP;HP;Hugo Silva;hugo.silva@empresa-ficticia.com.br;Comercial;06/03/2022;4598,91;em uso
+PAT-10017;G994290;Desk top;dell;Fábio Lima;fábio.lima@empresa-ficticia.com.br;RH;30.10.2024;R$ 4.151,48;Descartado
+PAT-10541;H148476;Tablete;Samsung;Hugo Pereira;hugo.pereira@empresa-ficticia.com.br;RH;20-09-2022;3141.30;Em uso
+PAT-10530;A155888;DESKTOP;Dell;Lucas Lima;lucas.lima@empresa-ficticia.com.br;RH;20/02/2022;R$ 3.900,81;Em estoque
+PAT-10246; h469300 ;notebook;HP;  FÁBIO Costa ;fábio.costa@empresa-ficticia.com.br;RH;2022-10-18;;Manutenção
+PAT-10563;B944273;desktop;Dell;João Costa;joão.costa@empresa-ficticia.com.br;Comercial;01/12/24;R$ 4.505,14;em uso
+PAT-10348;E773833;Note book;HP;  HUGO Costa ;hugo.costa@empresa-ficticia.com.br;RH;2025-04-29;5693,30;Em Uso
+PAT-10207;A747160; Notebook ;Dell;Nelson Oliveira;nelson.oliveira@empresa-ficticia.com.br;Engenharia;19/01/21;7467,82;uso
+PAT-10090;A952384; Notebook ;HP;Carla Santos;carla.santos@empresa-ficticia.com.br;TI;07/11/2023;7583.59;Em Uso
+PAT-10307;D165345;Celular;Motorola;Nelson Oliveira;nelson.oliveira@empresa-ficticia.com.br;TI;10/11/2022;3592,69;Em Uso
+PAT-10341;G444223;Note book;HP;Bruno Souza;bruno.souza@empresa-ficticia.com.br;Diretoria;07/09/2022;-;Em Uso
+PAT-10380;B108843;Notebok;Dell;Carla Costa;carla.costa@empresa-ficticia.com.br;RH;30-09-2023;7185,40;Em uso
+PAT-10417;F936860;notebook;Dell;Lucas Oliveira;lucas.oliveira@empresa-ficticia.com.br;Financeiro;2024-12-26;5810.63;Em Uso
+PAT-10344;E762213;NOTEBOOK;Dell;Lucas Pereira;lucas.pereira@empresa-ficticia.com.br;Diretoria;23/02/21;6040.32;Manutenção
+PAT-10471;A373413;desktop;Dell;Diego Silva;diego.silva@empresa-ficticia.com.br;Engenharia;2021-12-11;R$ 4.203,33;em uso
+PAT-10515;E167489;smartphone;Apple;Diego Santos;diegosantosempresa.com;Engenharia;22/12/2023;R$3.809;descartado
+PAT-10032;A395128;Monitor ;LG;Fábio Almeida;fábio.almeida@empresa-ficticia.com.br;Logística;10/05/22;R$1.336;uso
+PAT-10446; b371567 ;Celular;Motorola;Hugo Santos;hugo.santos@empresa-ficticia.com.br;Financeiro;14/03/2021;4471.16;Em Uso
+PAT-10172;F579476;NOTEBOOK;Lenovo;Fábio Almeida;fábio.almeida@empresa-ficticia.com.br;Comercial;30/08/2025;R$7.022;Em Uso
+PAT-10546;H890204;notebook;Dell;Olívia Costa;olívia.costa@empresa-ficticia.com.br;RH;12-10-2025;R$ 6.257,34;Estoque
+PAT-10547;E645728;Tablete;Apple;Diego Oliveira;diego.oliveira@empresa-ficticia.com.br;RH;27.10.2025;3916,84;Em Uso
+PAT-10408;E681239;MONITOR;LG;Diego Souza;diego.souza@empresa-ficticia.com.br;Diretoria;14/06/2025;1514.94;uso
+PAT-10535;F422326;Monitor;LG;Isabela Souza;isabelasouzaempresa.com;TI;04/08/2025;R$1.520;em uso
+PAT-10582;A128108;TABLET;Apple;Isabela Almeida;isabela.almeida@empresa-ficticia.com.br;Logística;18/06/2021;3334.66;Em manutenção
+PAT-10200;F141935;Smartphone;Apple;João Oliveira;joão.oliveira@empresa-ficticia.com.br;RH;02/07/2025;4264,92;Em manutenção
+PAT-10292;D597496;Smartphone;Motorola;Karen Souza;karen.souza@empresa-ficticia.com.br;Logística;20/03/2025;R$ 4.118,37;Em Uso
+PAT-10558;H326553;Notebok;Lenovo;Mariana Almeida;mariana.almeida@empresa-ficticia.com.br;Engenharia;25/02/2022;R$ 6.071,68;em uso
+PAT-10510;H398997; Notebook ;Dell;Olívia Lima;olívia.lima@empresa-ficticia.com.br;ti;12-08-2022;R$5.591;manutencao
+PAT-10589;F477542;Monitor;LG;Nelson Pereira;nelson.pereira@empresa-ficticia.com.br;Engenharia;02.10.2024;R$ 1.356,07;em uso
+PAT-10569;C403788;Notebook;Lenovo;Gabriela Santos;gabriela.santos@empresa-ficticia.com.br;TI;2022-12-29;R$5.694;Em uso
+PAT-10289;E885933;Desktop;HP;Elaine Pereira;elaine.pereira@empresa-ficticia.com.br;Logística;2023-05-26;R$5.360;em uso
+PAT-10489; a556446 ;Tablete;Apple;Bruno Costa;bruno.costa@empresa-ficticia.com.br;ti;13/08/2024;R$3.824;em uso
+PAT-10455;B712605;Monitor;LG;Isabela Santos;isabela.santos@empresa-ficticia.com.br;Financeiro;08/11/2021;R$1.153;em uso
+PAT-10562;H499757;DESKTOP;HP;  HUGO Souza ;hugo.souza@empresa-ficticia.com.br;Comercial;17.01.2022;4857.08;descartado
+PAT-10133;D340975;Celular;Apple;Pedro Pereira;pedro.pereira@empresa-ficticia.com.br;;09/02/2025;R$4.881;EM USO
+PAT-10060;B901888;NOTEBOOK;HP;  HUGO Pereira ;hugo.pereira@empresa-ficticia.com.br;TI;13/12/2021;6168,32;Em Uso
+PAT-10026;C994514;DESKTOP;Dell;Pedro Lima;pedro.lima@empresa-ficticia.com.br;Logística;21/04/25;R$ 4.530,33;uso
+PAT-10100;D881089;monitor;LG;Elaine Silva;elaine.silva@empresa-ficticia.com.br;-;12/10/2025;1374.92;Em uso
+PAT-10531;C895336; Notebook ;Dell;Elaine Oliveira;elaine.oliveira@empresa-ficticia.com.br;Comercial;03/06/2022;6766,88;EM USO
+PAT-10520;B685384;Note book;Dell;Gabriela Costa;gabriela.costa@empresa-ficticia.com.br;Logística;2025-05-15;R$ 7.579,70;Em Uso
+PAT-10363;D289705;smartphone;samsung;Lucas Pereira;lucas.pereira@empresa-ficticia.com.br;Comercial;06.11.2024;4581.10;Baixado
+PAT-10309;F570124;Notebok;HP;Pedro Souza;pedro.souza@empresa-ficticia.com.br;TI;01/07/2022;6782.05;Em uso
+PAT-10252;F599543;Monitor ;Samsung;Diego Souza;diego.souza@empresa-ficticia.com.br;Comercial;04-03-2021;1123,73;uso
+PAT-10481; e824530 ; Notebook ;Dell;Ana Almeida;ana.almeida@empresa-ficticia.com.br;Engenharia;15/09/2025;R$ 5.912,24;uso
+PAT-10441;A100409;monitor;LG;Gabriela Souza;gabriela.souza@empresa-ficticia.com.br;Logística;2021-04-12;-;Baixado
+PAT-10476;B338349;Notebok;Lenovo;Fábio Oliveira;fábio.oliveira@empresa-ficticia.com.br;Engenharia;14.08.2021;R$ 7.157,50;em uso
+PAT-10022;H560692;Notebok;Lenovo;Hugo Oliveira;hugo.oliveira@empresa-ficticia.com.br;Financeiro;26/11/21;R$ 7.349,46;manutencao
+PAT-10062;G183053;Smart phone;samsung;Isabela Pereira;isabela.pereira@empresa-ficticia.com.br;Financeiro;2024-01-15;4808,39;em uso
+PAT-10148;D254050;Monitor;samsung;Nelson Almeida;nelson.almeida@empresa-ficticia.com.br;Engenharia;11/06/2022;R$ 1.340,30;uso
+PAT-10483;C607108;tablet;Samsung;Ana Lima;ana.lima@empresa-ficticia.com.br;Diretoria;13/09/23;R$ 3.161,58;em uso
+PAT-10013; d765333 ;Tablet;Samsung;Nelson Costa;nelson.costa@empresa-ficticia.com.br;Diretoria;2022-05-11;3498.14;EM USO
+PAT-10257;H640123;Notebook;Dell;Isabela Oliveira;isabela.oliveira@empresa-ficticia.com.br;TI;22/04/2022;R$5.330;Em Uso
+PAT-10052;F101272;Monitor ;LG;Isabela Silva;isabela.silva@empresa-ficticia.com.br;RH;26/02/2024;R$1.416;Em uso
+PAT-10242;D328385;TABLET;Samsung;Lucas Almeida;lucas.almeida@empresa-ficticia.com.br;RH;10/11/2023;3653.75;Estoque
+PAT-10173;G680736;Monitor;Dell;Isabela Silva;isabela.silva@empresa-ficticia.com.br;Diretoria;11/09/2022;1191,67;Em uso
+PAT-10035;A813954;Smartphone;Samsung;Isabela Almeida;isabela.almeida@empresa-ficticia.com.br;Comercial;11/06/2024;R$3.456;Em manutenção
+PAT-10178;F193304;Tablet;Samsung;Elaine Santos;elaine.santos@empresa-ficticia.com.br;Engenharia;12/04/2022;R$ 3.669,12;Em uso
+PAT-10120;E720660; Notebook ;Dell;Diego Souza;diego.souza@empresa-ficticia.com.br;TI;13-07-2021;5998.55;Em estoque
+PAT-10275;F580220;Smart phone;Motorola;Pedro Santos;pedro.santos@empresa-ficticia.com.br;Financeiro;2025-03-18;4193.19;em uso
+PAT-10044;F831135;notebook;HP;Mariana Costa;mariana.costa@empresa-ficticia.com.br;Financeiro;10/04/2021;R$5.911;Estoque
+PAT-10300; e653043 ;tablet;Apple;Hugo Souza;hugo.souza@empresa-ficticia.com.br;Diretoria;2023-02-19;4057,54;em uso
+PAT-10076;A926712;Desktop;HP;João Silva;joão.silva@empresa-ficticia.com.br;Diretoria;07/07/2021;R$ 4.225,65;Em uso
+PAT-10368;E616422;NOTEBOOK;HP;Gabriela Lima;gabriela.lima@empresa-ficticia.com.br;Comercial;21-03-2022;R$ 7.232,09;EM USO
+PAT-10212;D830335;Monitor;Dell;João Oliveira;joão.oliveira@empresa-ficticia.com.br;Diretoria;31/10/2023;R$ 1.195,47;EM USO
+PAT-10267;A652432;TABLET;Samsung;Pedro Oliveira;pedro.oliveira@empresa-ficticia.com.br;RH;12/04/2023;R$ 2.935,51;Em Uso
+PAT-10311;H377296;Celular;Samsung;Pedro Silva;pedro.silva@empresa-ficticia.com.br;Financeiro;12/02/2025;R$3.546;Manutencao
+PAT-10444;D960282;desktop;Dell;Hugo Oliveira;hugo.oliveira@empresa-ficticia.com.br;Logística;2022-12-23;R$5.028;Em uso
+PAT-10503;E754613;Notebook;Dell;Gabriela Souza;gabriela.souza@empresa-ficticia.com.br;Engenharia;2021-09-27;5465,70;Em uso
+PAT-10495; a401808 ;Notebook;hp;Mariana Costa;mariana.costa@empresa-ficticia.com.br;Comercial;2023-03-01;7120,97;Baixado
+PAT-10033; b304196 ;Monitor ;Samsung;Gabriela Souza;gabriela.souza@empresa-ficticia.com.br;TI;06/04/2025;R$ 1.469,94;uso
+PAT-10009;B962631;Celular;Motorola;Karen Oliveira;karen.oliveira@empresa-ficticia.com.br;Logística;02/05/2023;R$4.517;Em Uso
+PAT-10160;F603437; Notebook ;HP;Olívia Lima;olívia.lima@empresa-ficticia.com.br;Diretoria;23/03/2021;R$ 6.265,10;em uso
+PAT-10285;C656711;Notebook;HP;Diego Pereira;diego.pereira@empresa-ficticia.com.br;Engenharia;04-10-2023;R$7.325;Baixado
+PAT-10295;F442006;Desk top;Dell;  JOÃO Costa ;joão.costa@empresa-ficticia.com.br;Financeiro;22/01/2022;4256,46;Em uso
+PAT-10277;H710935;Celular;Samsung;Isabela Pereira;isabela.pereira@empresa-ficticia.com.br;Logística;2025-09-09;R$ 4.363,70;Em uso
+PAT-10583;D306688; Notebook ;Dell;Elaine Oliveira;elaine.oliveira@empresa-ficticia.com.br;Comercial;26/04/2021;R$ 6.947,17;Estoque
+PAT-10484;B701879;Monitor ;Dell;Gabriela Costa;gabriela.costa@empresa-ficticia.com.br;RH;2025-07-11;1200,10;Em estoque
+PAT-10496;E215471;NOTEBOOK;Dell;Bruno Oliveira;bruno.oliveira@empresa-ficticia.com.br;TI;09/06/2021;5514.05;Descartado
+PAT-10182;A436358;Note book;HP;Ana Costa;ana.costa@empresa-ficticia.com.br;Diretoria;07/03/2023;5956.79;EM USO
+PAT-10334;E573717;NOTEBOOK;Lenovo;Diego Santos;diego.santos@empresa-ficticia.com.br;Engenharia;15/03/2023;7625.30;estoque
+PAT-10036;C818147;desktop;Dell;Elaine Silva;elaine.silva@empresa-ficticia.com.br;Comercial;2021-07-06;4889,68;EM USO
+PAT-10156;H960255;monitor;Samsung;Bruno Costa;bruno.costa@empresa-ficticia.com.br;Financeiro;10/12/2022;R$1.358;descartado
+PAT-10002;H817715;notebook;HP;Gabriela Almeida;gabriela.almeida@empresa-ficticia.com.br;Financeiro;2022-01-12;6015,93;Manutenção
+PAT-10508; g422881 ;tablet;Samsung;Diego Santos;diego.santos@empresa-ficticia.com.br;Financeiro;18/05/2024;3307,12;uso
+PAT-10497;F515832; Notebook ;Dell;Lucas Pereira;lucas.pereira@empresa-ficticia.com.br;Engenharia;22-12-2022;R$7.484;EM USO
+PAT-10308;G844881;Smart phone;Motorola;Nelson Lima;nelson.lima@empresa-ficticia.com.br;Comercial;20/04/2025;4618.25;Em uso
+PAT-10289;E885933;Desktop;HP;Elaine Pereira;elaine.pereira@empresa-ficticia.com.br;Logística;2023-05-26;R$5.360;em uso
+PAT-10560;E538598;notebook;HP;Diego Santos;diegosantosempresa.com;Financeiro;27.08.2025;R$ 7.665,01;EM USO
+PAT-10414;B161049;Monitor;Samsung;João Pereira;joão.pereira@empresa-ficticia.com.br;Diretoria;07/03/2021;1074,34;em uso
+PAT-10421;H388264;Notebook;HP;Carla Silva;carla.silva@empresa-ficticia.com.br;Engenharia;20/01/2023;R$7.460;em uso
+PAT-10141;H219069;monitor;LG;Ana Souza;ana.souza@empresa-ficticia.com.br;TI;16/07/2024;R$1.398;Em uso
+PAT-10223;C711050;NOTEBOOK;lenovo;  BRUNO Costa ;bruno.costa@empresa-ficticia.com.br;TI;23-12-2024;6213.82;estoque
+PAT-10183;H255943;Notebok;hp;Carla Costa;carla.costa@empresa-ficticia.com.br;Engenharia;04/02/2023;R$6.765;Manutencao
+PAT-10404;B176220;MONITOR;LG;João Almeida;joão.almeida@empresa-ficticia.com.br;Engenharia;06/06/23;1463.91;EM USO
+PAT-10511;A922077;notebook;Lenovo;Olívia Pereira;olívia.pereira@empresa-ficticia.com.br;Diretoria;20/06/2022;R$7.382;Em Uso
+PAT-10117;A120114;Notebok;Dell;Gabriela Costa;gabriela.costa@empresa-ficticia.com.br;Logística;2024-02-03;R$7.792;EM USO
+PAT-10001;D241515;monitor;Dell;Karen Pereira;;Logística;26/03/2024;1349,33;em uso
+PAT-10113;F386004;notebook;HP;Olívia Costa;olívia.costa@empresa-ficticia.com.br;Financeiro;22-02-2024;5484.69;em uso
+PAT-10531;C895336; Notebook ;Dell;Elaine Oliveira;elaine.oliveira@empresa-ficticia.com.br;Comercial;03/06/2022;6766,88;EM USO
+PAT-10165;E534242;Tablete;Samsung;  KAREN Lima ;karen.lima@empresa-ficticia.com.br;Financeiro;15/01/2022;4130.17;Em uso
+PAT-10184;F225749;notebook;Dell;Isabela Lima;;Comercial;01/05/2021;R$6.944;uso
+PAT-10372;F483711;Monitor;Samsung;Isabela Oliveira;isabela.oliveira@empresa-ficticia.com.br;Comercial;15/09/23;1429.31;uso
+PAT-10274; h626101 ;Smartphone;Samsung;Isabela Costa;isabela.costa@empresa-ficticia.com.br;Engenharia;2021-12-13;4285,52;Em Uso
+PAT-10000;D679105;NOTEBOOK;Lenovo;Ana Costa;ana.costa@empresa-ficticia.com.br;RH;20.10.2022;6853.26;Em Uso
+PAT-10566;F334697;Celular;Apple;Ana Souza;ana.souza@empresa-ficticia.com.br;-;31/08/2021;4980,47;Em uso
+PAT-10540;G342964;Notebok;HP;Diego Santos;diego.santos@empresa-ficticia.com.br;TI;2022-11-01;7520.76;Em estoque
+PAT-10500;G180424;Celular;Samsung;Diego Souza;diego.souza@empresa-ficticia.com.br;Diretoria;21/12/2021;3675,23;Em Uso
+PAT-10383;A179778;Celular;Samsung;Mariana Almeida;mariana.almeida@empresa-ficticia.com.br;TI;2021-02-23;4763,47;Em manutenção
+PAT-10405;G346458;NOTEBOOK;Lenovo;Mariana Santos;mariana.santos@empresa-ficticia.com.br;Logística;16/11/24;R$ 5.729,76;descartado
+PAT-10561;G651547;Notebok;HP;Karen Costa;karen.costa@empresa-ficticia.com.br;Diretoria;24/03/24;R$ 7.021,83;Em estoque
+PAT-10020;B899228; Notebook ;Lenovo;Mariana Santos;mariana.santos@empresa-ficticia.com.br;Engenharia;28.07.2021;6319,84;Em uso
+PAT-10176;F213549;MONITOR;LG;Karen Oliveira;karen.oliveira@empresa-ficticia.com.br;TI;2025-05-14;1104,87;EM USO
+PAT-10335;D816504;notebook;Dell;Lucas Lima;lucas.lima@empresa-ficticia.com.br;Financeiro;17/05/2024;5755,41;EM USO
+PAT-10379;E499075;MONITOR;Samsung;Carla Almeida;carla.almeida@empresa-ficticia.com.br;Financeiro;2024-09-21;1424,59;estoque
+PAT-10545;D800555;Notebok;HP;Carla Costa;carla.costa@empresa-ficticia.com.br;Diretoria;25/08/2022;R$ 5.839,95;manutencao
+PAT-10171;H968771;DESKTOP;HP;Isabela Lima;isabela.lima@empresa-ficticia.com.br;TI;14/07/2022;R$5.253;EM USO
+PAT-10519; e110718 ;TABLET;Apple;João Souza;joão.souza@empresa-ficticia.com.br;Diretoria;04/07/2021;3566,69;Em uso
+PAT-10507;A740348;Notebok;Lenovo;Carla Lima;carla.lima@empresa-ficticia.com.br;RH;22/09/2025;R$ 5.282,11;uso
+PAT-10152;D942539;Desktop;Dell;Gabriela Pereira;gabriela.pereira@empresa-ficticia.com.br;TI;03/01/23;R$ 5.548,07;Em uso
+PAT-10413;A249441;Notebook;HP;João Lima;joão.lima@empresa-ficticia.com.br;RH;2021-12-04;5829,95;Em uso
+PAT-10165;E534242;Tablete;Samsung;  KAREN Lima ;karen.lima@empresa-ficticia.com.br;Financeiro;15/01/2022;4130.17;Em uso
+PAT-10581;H406181;NOTEBOOK;HP;João Santos;joão.santos@empresa-ficticia.com.br;Comercial;29.03.2021;R$7.094;EM USO
+PAT-10316;D253401; Notebook ;Lenovo;Isabela Costa;isabela.costa@empresa-ficticia.com.br;;sem data;R$7.238;uso
+PAT-10258;E732322;smartphone;Apple;João Lima;joão.lima@empresa-ficticia.com.br;RH;16/01/2025;4837.77;Manutenção
+PAT-10474;G892575;notebook;Dell;Bruno Pereira;;Logística;10/05/2031;R$ 7.693,41;EM USO
+PAT-10337;D467326;Desk top;Dell;  KAREN Silva ;karen.silva@empresa-ficticia.com.br;TI;13/07/2023;5413.28;Em Uso
+PAT-10538;D543324;MONITOR;Dell;Ana Oliveira;ana.oliveira@empresa-ficticia.com.br;Financeiro;10/05/2031;1260.09;em uso
+PAT-10504;G163457;Desk top;HP;Pedro Pereira;pedro.pereira@empresa-ficticia.com.br;RH;01/12/23;4055.90;Em Uso
+PAT-10398;D732444;Monitor;LG;João Santos;joão.santos@empresa-ficticia.com.br;Diretoria;09/09/22;1397,30;Em Uso
+PAT-10423;E340189;Desk top;HP;Bruno Almeida;bruno.almeida@empresa-ficticia.com.br;TI;2024-12-07;5161.94;EM USO
+PAT-10023;C383666;Monitor;Samsung;Gabriela Costa;gabriela.costa@empresa-ficticia.com.br;Engenharia;22-07-2023;1248.88;Em estoque
+PAT-10480;G454371;Desk top;HP;Mariana Almeida;mariana.almeida@empresa-ficticia.com.br;Engenharia;10/11/21;5444.90;Em manutenção
+PAT-10422;G115152;monitor;Dell;Pedro Costa;pedro.costa@empresa-ficticia.com.br;;12/09/2023;R$1.257;Em uso
+PAT-10119;E480131;Desktop;Dell;Pedro Silva;pedro.silva@empresa-ficticia.com.br;RH;04/04/23;4679.01;Em manutenção
+PAT-10256;H466836;Notebok;Lenovo;Lucas Souza;lucas.souza@empresa-ficticia.com.br;Comercial;13/08/2022;6483.03;uso
+PAT-10249;H497311;monitor;Dell;Nelson Santos;nelson.santos@empresa-ficticia.com.br;Logística;17/01/2021;1397.40;em uso
