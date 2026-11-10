@@ -34,7 +34,7 @@ Detalhes em [`saida/relatorio_qualidade.md`](saida/relatorio_qualidade.md).
 
 ## Estrutura
 ```
-├── dados/brutos/inventario_ativos_bruto.csv   # planilha suja (fictícia)
+├── dados/inventario_ativos_bruto.csv   # planilha suja (fictícia)
 ├── saida/
 │   ├── inventario_limpo.csv
 │   ├── inventario_rejeitados.csv

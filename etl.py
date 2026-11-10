@@ -16,7 +16,7 @@ from pathlib import Path
 import pandas as pd
 
 BASE = Path(__file__).parent
-ENTRADA = BASE / "dados" / "brutos" / "inventario_ativos_bruto.csv"
+ENTRADA = BASE / "dados" / "inventario_ativos_bruto.csv"
 SAIDA = BASE / "saida"
 
 MAPA_TIPO = {

@@ -78,5 +78,5 @@ dups = df.sample(25, random_state=1)                              # duplicatas e
 dups2 = df.sample(10, random_state=2).assign(Usuario=lambda x: x["Usuario"].str.upper())  # duplicatas "disfarçadas"
 df = pd.concat([df, dups, dups2]).sample(frac=1, random_state=3).reset_index(drop=True)
 
-df.to_csv("dados/brutos/inventario_ativos_bruto.csv", sep=";", index=False, encoding="utf-8-sig")
-print(f"{len(df)} linhas geradas em dados/brutos/inventario_ativos_bruto.csv")
+df.to_csv("dados/inventario_ativos_bruto.csv", sep=";", index=False, encoding="utf-8-sig")
+print(f"{len(df)} linhas geradas em dados/inventario_ativos_bruto.csv")
